@@ -1,0 +1,3643 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Adforest Elementor\n"
+"POT-Creation-Date: 2023-07-13 11:27+0500\n"
+"PO-Revision-Date: 2023-07-13 11:27+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: adforest-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: adforest-elementor.php:71
+msgid "Adforest Widgets"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:66
+msgid "All"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:68
+msgid "Select Location"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:70
+msgid "Select Warranty"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:72
+msgid "Select Condition"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:74
+msgid "Select Ad Type"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:76
+msgid "Select Product Type"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:78
+msgid "Select ad categories"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:101
+#: widgets/z_adforest_ads_listing_services.php:146
+#: widgets/z_ads_tab_modern6.php:98 widgets/z_ads_with_sidebar.php:98
+msgid "Select Layout Type"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:102
+#: widgets/z_ads_tab_modern6.php:99 widgets/z_ads_with_sidebar.php:99
+msgid "Grid 1"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:103
+#: widgets/z_ads_tab_modern6.php:100 widgets/z_ads_with_sidebar.php:100
+msgid "Grid 2"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:104
+#: widgets/z_ads_tab_modern6.php:101 widgets/z_ads_with_sidebar.php:101
+msgid "Grid 3"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:105
+#: widgets/z_ads_tab_modern6.php:102 widgets/z_ads_with_sidebar.php:102
+msgid "Grid 4"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:106
+#: widgets/z_ads_tab_modern6.php:103 widgets/z_ads_with_sidebar.php:103
+msgid "Grid 5"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:107
+#: widgets/z_ads_tab_modern6.php:104 widgets/z_ads_with_sidebar.php:104
+msgid "Grid 6"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:108
+#: widgets/z_ads_tab_modern6.php:105 widgets/z_ads_with_sidebar.php:105
+msgid "Grid 7"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:109
+#: widgets/z_ads_tab_modern6.php:106 widgets/z_ads_with_sidebar.php:106
+msgid "Grid 8"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:110
+#: widgets/z_ads_tab_modern6.php:107 widgets/z_ads_with_sidebar.php:107
+msgid "Grid 9"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:111
+#: widgets/z_ads_tab_modern6.php:108 widgets/z_ads_tab_modern6.php:109
+#: widgets/z_ads_with_sidebar.php:108
+msgid "Grid 10"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:112
+#: includes/adforest-elementor-functions.php:113
+#: widgets/z_ads_with_sidebar.php:109
+msgid "Grid 11"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:114
+msgid "List"
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:207
+msgid "Added to your favourites."
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:210
+msgid "Ad removed from your favourites."
+msgstr ""
+
+#: includes/adforest-elementor-functions.php:264
+msgid "No Vendor Found!"
+msgstr ""
+
+#: widgets/about_us.php:15
+msgid "About us"
+msgstr ""
+
+#: widgets/about_us.php:29 widgets/ads.php:32 widgets/ads_cats_boxes.php:30
+#: widgets/ads_cats_tabs_modern.php:29 widgets/ads_countries.php:29
+#: widgets/ads_countries2.php:30 widgets/ads_grid.php:31
+#: widgets/ads_list.php:31 widgets/ads_slider_modern.php:30
+#: widgets/ads_slider_modern2.php:29 widgets/ads_slider_modern3.php:29
+#: widgets/ads_with_sidebar.php:23 widgets/advertisement_720_90.php:31
+#: widgets/apps_classic.php:30 widgets/apps_modern.php:30
+#: widgets/apps_simple.php:30 widgets/blog.php:32 widgets/cats_classic.php:32
+#: widgets/cats_color.php:31 widgets/cats_fancy.php:32 widgets/cats_flat.php:31
+#: widgets/cats_minimal.php:31 widgets/cats_modern.php:31 widgets/faq.php:31
+#: widgets/feature_modern.php:30 widgets/feature_modern_2.php:30
+#: widgets/fun_facts.php:30 widgets/grid_modern.php:32
+#: widgets/main_hero1.php:30 widgets/partners.php:32
+#: widgets/partners_classic.php:31 widgets/partners_grid.php:29
+#: widgets/partners_slider.php:32 widgets/popular_cats.php:32
+#: widgets/process_cycle.php:32 widgets/process_cycle2.php:32
+#: widgets/product_bg.php:30 widgets/product_cat_tabs.php:30
+#: widgets/product_cat_tabs_2.php:30 widgets/products_classic.php:31
+#: widgets/products_minimal.php:31 widgets/products_modern.php:32
+#: widgets/products_simple.php:31 widgets/search_fancy.php:30
+#: widgets/search_hero2.php:30 widgets/search_modern.php:30
+#: widgets/search_modern2.php:25 widgets/search_simple.php:30
+#: widgets/search_stylish.php:30 widgets/testimonial_modern.php:30
+#: widgets/vendor_banners.php:36 widgets/vendor_grid.php:30
+#: widgets/video_hero.php:30 widgets/why_chose.php:32 widgets/y_cats_1.php:30
+#: widgets/y_cats_classic_2.php:29 widgets/y_clouds.php:30
+#: widgets/y_fun_facts2.php:29 widgets/y_process_cycle3.php:30
+#: widgets/y_products_new.php:30 widgets/y_search_hero3.php:30
+#: widgets/y_search_hero4.php:30 widgets/y_shop_layout.php:29
+#: widgets/z_adforest_ads_listing_services.php:30
+#: widgets/z_adforest_brands.php:30
+#: widgets/z_adforest_callto_action_service.php:29
+#: widgets/z_adforest_cats_services.php:30
+#: widgets/z_adforest_cats_sports.php:30 widgets/z_adforest_contact_info.php:30
+#: widgets/z_adforest_hero_book.php:30
+#: widgets/z_adforest_hero_decoration.php:30
+#: widgets/z_adforest_hero_services.php:29
+#: widgets/z_adforest_hero_sports.php:29
+#: widgets/z_adforest_locations_slider.php:29
+#: widgets/z_adforest_search_services.php:29 widgets/z_adforest_services.php:29
+#: widgets/z_adforest_shop_services.php:30
+#: widgets/z_ads_countries_listings.php:52 widgets/z_ads_tab_modern6.php:29
+#: widgets/z_ads_team_member.php:31 widgets/z_apps_call_to_action.php:29
+#: widgets/z_apps_screenshots_slider.php:29
+#: widgets/z_awesome_features_modern.php:29 widgets/z_browse_categories.php:30
+#: widgets/z_browse_categories2.php:29 widgets/z_call_to_action3.php:30
+#: widgets/z_call_to_action_techy.php:29 widgets/z_call_to_action_toy.php:29
+#: widgets/z_faqs_modern.php:29 widgets/z_main_call_to_action.php:29
+#: widgets/z_main_call_to_action_modern.php:30
+#: widgets/z_main_call_to_action_modern2.php:29
+#: widgets/z_partners_modern.php:29 widgets/z_process_cycle_new4.php:31
+#: widgets/z_shop_layout2.php:31 widgets/z_shop_layout3.php:32
+#: widgets/z_shop_layout_book.php:32 widgets/z_shop_layout_book_2.php:32
+#: widgets/z_success_stories_2.php:32 widgets/z_testimonial_modern.php:29
+msgid "Basic"
+msgstr ""
+
+#: widgets/about_us.php:34 widgets/testimonial_modern.php:48
+#: widgets/testimonial_modern.php:51
+msgid "Section Tag Line"
+msgstr ""
+
+#: widgets/about_us.php:37 widgets/about_us.php:42 widgets/about_us.php:45
+#: widgets/about_us.php:88 widgets/about_us.php:91 widgets/about_us.php:99
+#: widgets/ads.php:83 widgets/ads.php:87 widgets/ads.php:103
+#: widgets/ads.php:106 widgets/ads_cats_boxes.php:81
+#: widgets/ads_cats_boxes.php:85 widgets/ads_cats_boxes.php:101
+#: widgets/ads_cats_boxes.php:104 widgets/ads_cats_tabs_modern.php:43
+#: widgets/ads_cats_tabs_modern.php:47 widgets/ads_countries.php:72
+#: widgets/ads_countries.php:76 widgets/ads_countries.php:114
+#: widgets/ads_countries.php:117 widgets/ads_countries2.php:97
+#: widgets/ads_countries2.php:136 widgets/ads_grid.php:54
+#: widgets/ads_grid.php:58 widgets/ads_list.php:54 widgets/ads_list.php:58
+#: widgets/ads_slider_modern.php:60 widgets/ads_slider_modern.php:64
+#: widgets/ads_slider_modern.php:85 widgets/ads_slider_modern.php:102
+#: widgets/ads_slider_modern.php:106 widgets/ads_slider_modern2.php:58
+#: widgets/ads_slider_modern2.php:62 widgets/ads_slider_modern3.php:47
+#: widgets/ads_slider_modern3.php:51 widgets/ads_slider_modern3.php:112
+#: widgets/ads_with_sidebar.php:65 widgets/advertisement_720_90.php:82
+#: widgets/advertisement_720_90.php:86 widgets/advertisement_720_90.php:102
+#: widgets/advertisement_720_90.php:105 widgets/apps_classic.php:55
+#: widgets/apps_classic.php:58 widgets/apps_modern.php:55
+#: widgets/apps_simple.php:38 widgets/apps_simple.php:42 widgets/blog.php:52
+#: widgets/blog.php:56 widgets/blog.php:93 widgets/blog.php:96
+#: widgets/blog.php:112 widgets/blog.php:115 widgets/cats_classic.php:95
+#: widgets/cats_classic.php:99 widgets/cats_classic.php:115
+#: widgets/cats_classic.php:118 widgets/cats_fancy.php:95
+#: widgets/cats_fancy.php:99 widgets/cats_fancy.php:115
+#: widgets/cats_fancy.php:118 widgets/cats_flat.php:94 widgets/cats_flat.php:98
+#: widgets/cats_flat.php:114 widgets/cats_flat.php:117
+#: widgets/cats_minimal.php:94 widgets/cats_minimal.php:98
+#: widgets/cats_minimal.php:114 widgets/cats_minimal.php:117
+#: widgets/cats_modern.php:94 widgets/cats_modern.php:98
+#: widgets/cats_modern.php:114 widgets/cats_modern.php:117 widgets/faq.php:47
+#: widgets/faq.php:51 widgets/faq.php:56 widgets/faq.php:59
+#: widgets/feature_modern.php:52 widgets/feature_modern_2.php:46
+#: widgets/grid_modern.php:135 widgets/main_hero1.php:36
+#: widgets/main_hero1.php:39 widgets/main_hero1.php:62
+#: widgets/partners_classic.php:82 widgets/partners_classic.php:86
+#: widgets/partners_classic.php:102 widgets/partners_classic.php:105
+#: widgets/partners_grid.php:80 widgets/partners_grid.php:84
+#: widgets/partners_grid.php:100 widgets/partners_grid.php:103
+#: widgets/popular_cats.php:48 widgets/popular_cats.php:52
+#: widgets/process_cycle.php:48 widgets/process_cycle.php:52
+#: widgets/process_cycle2.php:56 widgets/process_cycle2.php:60
+#: widgets/product_bg.php:43 widgets/product_bg.php:46
+#: widgets/product_cat_tabs.php:38 widgets/product_cat_tabs.php:42
+#: widgets/product_cat_tabs_2.php:37 widgets/product_cat_tabs_2.php:41
+#: widgets/products_classic.php:82 widgets/products_classic.php:86
+#: widgets/products_classic.php:102 widgets/products_classic.php:106
+#: widgets/products_minimal.php:82 widgets/products_minimal.php:86
+#: widgets/products_minimal.php:102 widgets/products_minimal.php:106
+#: widgets/products_modern.php:59 widgets/products_modern.php:63
+#: widgets/products_simple.php:82 widgets/products_simple.php:86
+#: widgets/products_simple.php:102 widgets/products_simple.php:106
+#: widgets/search_fancy.php:36 widgets/search_fancy.php:39
+#: widgets/search_modern.php:36 widgets/search_modern.php:40
+#: widgets/search_modern2.php:41 widgets/search_simple.php:47
+#: widgets/search_simple.php:52 widgets/search_stylish.php:36
+#: widgets/search_stylish.php:41 widgets/sign_in.php:35 widgets/sign_in.php:39
+#: widgets/sign_in.php:62 widgets/sign_in.php:66 widgets/sign_up.php:36
+#: widgets/sign_up.php:40 widgets/sign_up.php:100 widgets/sign_up.php:104
+#: widgets/testimonial_modern.php:57 widgets/testimonial_modern.php:60
+#: widgets/vendor_grid.php:35 widgets/vendor_grid.php:39
+#: widgets/vendor_grid.php:62 widgets/vendor_grid.php:66
+#: widgets/vendor_services.php:49 widgets/video_hero.php:37
+#: widgets/why_chose.php:83 widgets/why_chose.php:87 widgets/why_chose.php:103
+#: widgets/why_chose.php:106 widgets/y_cats_1.php:69
+#: widgets/y_cats_classic_2.php:70 widgets/y_cats_classic_2.php:105
+#: widgets/y_clouds.php:48 widgets/y_process_cycle3.php:63
+#: widgets/y_process_cycle3.php:100 widgets/y_products_new.php:61
+#: widgets/y_products_new.php:97 widgets/y_search_hero3.php:46
+#: widgets/y_search_hero4.php:46 widgets/y_shop_layout.php:85
+#: widgets/y_shop_layout.php:122 widgets/z_adforest_ads_listing_services.php:61
+#: widgets/z_adforest_ads_listing_services.php:98
+#: widgets/z_adforest_cats_services.php:68
+#: widgets/z_adforest_cats_sports.php:62 widgets/z_adforest_cats_sports.php:99
+#: widgets/z_adforest_hero_section_toy.php:39
+#: widgets/z_adforest_hero_section_toy.php:120
+#: widgets/z_adforest_hero_section_toy.php:124
+#: widgets/z_adforest_hero_section_toy.php:147
+#: widgets/z_adforest_hero_services.php:40
+#: widgets/z_adforest_hero_sports.php:38 widgets/z_adforest_hero_sports.php:49
+#: widgets/z_adforest_hero_sports.php:89
+#: widgets/z_adforest_locations_slider.php:62
+#: widgets/z_adforest_locations_slider.php:66
+#: widgets/z_adforest_locations_slider.php:105
+#: widgets/z_adforest_locations_slider.php:108 widgets/z_adforest_sales.php:147
+#: widgets/z_adforest_sales.php:157 widgets/z_adforest_search_services.php:50
+#: widgets/z_adforest_search_services.php:53
+#: widgets/z_adforest_search_services.php:92
+#: widgets/z_adforest_search_services.php:95
+#: widgets/z_adforest_search_services.php:139
+#: widgets/z_adforest_search_services.php:147
+#: widgets/z_adforest_search_services.php:155
+#: widgets/z_adforest_services.php:50 widgets/z_adforest_services.php:53
+#: widgets/z_adforest_services.php:92 widgets/z_adforest_services.php:95
+#: widgets/z_adforest_services.php:140 widgets/z_adforest_shop_services.php:51
+#: widgets/z_adforest_shop_services.php:54
+#: widgets/z_adforest_shop_services.php:91
+#: widgets/z_adforest_shop_services.php:94 widgets/z_adforest_slider.php:52
+#: widgets/z_ads_countries_listings.php:86
+#: widgets/z_ads_countries_listings.php:89
+#: widgets/z_ads_countries_listings.php:128
+#: widgets/z_ads_countries_listings.php:131 widgets/z_ads_tab_modern6.php:50
+#: widgets/z_ads_tab_modern6.php:60 widgets/z_ads_team_member.php:63
+#: widgets/z_ads_team_member.php:66 widgets/z_ads_team_member.php:105
+#: widgets/z_ads_team_member.php:108 widgets/z_ads_team_member.php:142
+#: widgets/z_ads_team_member.php:151 widgets/z_ads_team_member.php:160
+#: widgets/z_ads_team_member.php:180 widgets/z_ads_team_member.php:189
+#: widgets/z_ads_team_member.php:199 widgets/z_ads_team_member.php:209
+#: widgets/z_ads_with_sidebar.php:35 widgets/z_ads_with_sidebar.php:38
+#: widgets/z_ads_with_sidebar.php:120 widgets/z_ads_with_sidebar.php:165
+#: widgets/z_ads_with_sidebar.php:251 widgets/z_apps_call_to_action.php:50
+#: widgets/z_apps_call_to_action.php:56 widgets/z_apps_call_to_action.php:59
+#: widgets/z_apps_call_to_action.php:101 widgets/z_apps_call_to_action.php:149
+#: widgets/z_apps_call_to_action.php:157
+#: widgets/z_apps_screenshots_slider.php:81
+#: widgets/z_apps_screenshots_slider.php:84
+#: widgets/z_apps_screenshots_slider.php:123
+#: widgets/z_apps_screenshots_slider.php:126
+#: widgets/z_apps_screenshots_slider.php:157
+#: widgets/z_awesome_features_modern.php:82
+#: widgets/z_awesome_features_modern.php:85
+#: widgets/z_awesome_features_modern.php:124
+#: widgets/z_awesome_features_modern.php:127
+#: widgets/z_awesome_features_modern.php:158
+#: widgets/z_awesome_features_modern.php:166 widgets/z_browse_categories.php:50
+#: widgets/z_browse_categories.php:54 widgets/z_browse_categories.php:93
+#: widgets/z_browse_categories.php:96 widgets/z_browse_categories2.php:50
+#: widgets/z_browse_categories2.php:54 widgets/z_browse_categories2.php:93
+#: widgets/z_browse_categories2.php:96 widgets/z_browse_categories2.php:116
+#: widgets/z_browse_categories2.php:196 widgets/z_call_to_action3.php:36
+#: widgets/z_call_to_action3.php:39 widgets/z_call_to_action3.php:48
+#: widgets/z_call_to_action3.php:71 widgets/z_call_to_action_techy.php:39
+#: widgets/z_call_to_action_techy.php:45 widgets/z_call_to_action_techy.php:48
+#: widgets/z_call_to_action_techy.php:70 widgets/z_call_to_action_techy.php:94
+#: widgets/z_call_to_action_toy.php:38 widgets/z_call_to_action_toy.php:57
+#: widgets/z_faqs_modern.php:50 widgets/z_faqs_modern.php:56
+#: widgets/z_faqs_modern.php:59 widgets/z_faqs_modern.php:101
+#: widgets/z_main_call_to_action.php:39 widgets/z_main_call_to_action.php:45
+#: widgets/z_main_call_to_action.php:48 widgets/z_main_call_to_action.php:57
+#: widgets/z_main_call_to_action.php:80 widgets/z_main_call_to_action.php:104
+#: widgets/z_main_call_to_action_modern.php:40
+#: widgets/z_main_call_to_action_modern.php:46
+#: widgets/z_main_call_to_action_modern.php:49
+#: widgets/z_main_call_to_action_modern.php:58
+#: widgets/z_main_call_to_action_modern.php:78
+#: widgets/z_main_call_to_action_modern.php:89
+#: widgets/z_main_call_to_action_modern.php:111
+#: widgets/z_main_call_to_action_modern.php:197
+#: widgets/z_main_call_to_action_modern.php:233
+#: widgets/z_main_call_to_action_modern2.php:39
+#: widgets/z_main_call_to_action_modern2.php:45
+#: widgets/z_main_call_to_action_modern2.php:48
+#: widgets/z_main_call_to_action_modern2.php:68
+#: widgets/z_main_call_to_action_modern2.php:80
+#: widgets/z_main_call_to_action_modern2.php:104
+#: widgets/z_main_call_to_action_modern2.php:129
+#: widgets/z_partners_modern.php:72 widgets/z_partners_modern.php:75
+#: widgets/z_partners_modern.php:114 widgets/z_partners_modern.php:117
+#: widgets/z_process_cycle_new4.php:63 widgets/z_process_cycle_new4.php:66
+#: widgets/z_process_cycle_new4.php:105 widgets/z_process_cycle_new4.php:108
+#: widgets/z_process_cycle_new4.php:149 widgets/z_process_cycle_new4.php:187
+#: widgets/z_process_cycle_new4.php:226 widgets/z_shop_layout2.php:84
+#: widgets/z_shop_layout2.php:87 widgets/z_shop_layout2.php:126
+#: widgets/z_shop_layout2.php:129 widgets/z_shop_layout3.php:83
+#: widgets/z_shop_layout3.php:87 widgets/z_shop_layout3.php:103
+#: widgets/z_shop_layout3.php:106 widgets/z_shop_layout_book.php:84
+#: widgets/z_shop_layout_book.php:88 widgets/z_shop_layout_book.php:104
+#: widgets/z_shop_layout_book.php:107 widgets/z_shop_layout_book.php:123
+#: widgets/z_shop_layout_book.php:126 widgets/z_shop_layout_book_2.php:83
+#: widgets/z_shop_layout_book_2.php:87 widgets/z_shop_layout_book_2.php:103
+#: widgets/z_shop_layout_book_2.php:106 widgets/z_success_stories_2.php:63
+#: widgets/z_success_stories_2.php:67 widgets/z_success_stories_2.php:83
+#: widgets/z_success_stories_2.php:86
+msgid "Section Title"
+msgstr ""
+
+#: widgets/about_us.php:50 widgets/about_us.php:96 widgets/ads.php:123
+#: widgets/ads_cats_boxes.php:121 widgets/ads_cats_tabs_modern.php:55
+#: widgets/ads_countries.php:134 widgets/ads_countries2.php:117
+#: widgets/ads_grid.php:64 widgets/ads_list.php:64
+#: widgets/ads_slider_modern.php:123 widgets/advertisement_720_90.php:122
+#: widgets/apps_modern.php:62 widgets/blog.php:132 widgets/cats_classic.php:135
+#: widgets/cats_fancy.php:135 widgets/cats_flat.php:134
+#: widgets/cats_minimal.php:134 widgets/cats_modern.php:134 widgets/faq.php:65
+#: widgets/main_hero1.php:44 widgets/partners_classic.php:122
+#: widgets/partners_grid.php:120 widgets/popular_cats.php:58
+#: widgets/process_cycle.php:57 widgets/process_cycle2.php:66
+#: widgets/products_classic.php:123 widgets/products_minimal.php:123
+#: widgets/products_modern.php:71 widgets/products_simple.php:123
+#: widgets/search_hero2.php:53 widgets/testimonial_modern.php:66
+#: widgets/vendor_services.php:56 widgets/why_chose.php:123
+#: widgets/y_cats_classic_2.php:88 widgets/y_process_cycle3.php:82
+#: widgets/y_products_new.php:79 widgets/y_shop_layout.php:104
+#: widgets/z_adforest_ads_listing_services.php:80
+#: widgets/z_adforest_cats_services.php:77
+#: widgets/z_adforest_cats_sports.php:81
+#: widgets/z_adforest_locations_slider.php:83
+#: widgets/z_adforest_search_services.php:71 widgets/z_adforest_services.php:71
+#: widgets/z_adforest_shop_services.php:71
+#: widgets/z_ads_countries_listings.php:107 widgets/z_ads_team_member.php:84
+#: widgets/z_apps_call_to_action.php:65
+#: widgets/z_apps_screenshots_slider.php:102
+#: widgets/z_awesome_features_modern.php:103 widgets/z_browse_categories.php:71
+#: widgets/z_browse_categories2.php:71 widgets/z_call_to_action3.php:56
+#: widgets/z_call_to_action_techy.php:55 widgets/z_faqs_modern.php:65
+#: widgets/z_main_call_to_action.php:65
+#: widgets/z_main_call_to_action_modern.php:65
+#: widgets/z_main_call_to_action_modern2.php:55
+#: widgets/z_partners_modern.php:93 widgets/z_process_cycle_new4.php:84
+#: widgets/z_shop_layout2.php:105 widgets/z_shop_layout3.php:123
+#: widgets/z_shop_layout_book.php:187 widgets/z_shop_layout_book_2.php:123
+#: widgets/z_success_stories_2.php:103
+msgid "Section Description"
+msgstr ""
+
+#: widgets/about_us.php:59
+msgid "large image"
+msgstr ""
+
+#: widgets/about_us.php:61
+msgid "524x464"
+msgstr ""
+
+#: widgets/about_us.php:66
+msgid "small image"
+msgstr ""
+
+#: widgets/about_us.php:68
+msgid "294x280"
+msgstr ""
+
+#: widgets/about_us.php:73 widgets/partners.php:50
+#: widgets/partners_classic.php:141 widgets/partners_grid.php:139
+#: widgets/partners_slider.php:57 widgets/z_partners_modern.php:148
+msgid "URL or Link"
+msgstr ""
+
+#: widgets/about_us.php:75
+msgid "Youtube video link"
+msgstr ""
+
+#: widgets/about_us.php:82 widgets/partners_classic.php:133
+#: widgets/partners_grid.php:131 widgets/partners_slider.php:50
+msgid "Client or Partners"
+msgstr ""
+
+#: widgets/about_us.php:105 widgets/ads_cats_boxes.php:202
+#: widgets/call_to_action.php:47 widgets/cats_classic.php:173
+#: widgets/cats_color.php:77 widgets/cats_flat.php:172
+#: widgets/cats_minimal.php:174 widgets/fun_facts.php:55
+#: widgets/popular_cats.php:87 widgets/process_cycle.php:73
+#: widgets/process_cycle.php:109 widgets/process_cycle.php:145
+#: widgets/y_cats_1.php:93 widgets/y_cats_classic_2.php:150
+#: widgets/y_fun_facts2.php:64 widgets/y_process_cycle3.php:126
+#: widgets/y_process_cycle3.php:159 widgets/y_process_cycle3.php:191
+#: widgets/z_ads_with_sidebar.php:200 widgets/z_browse_categories2.php:213
+#: widgets/z_process_cycle_new4.php:135 widgets/z_process_cycle_new4.php:173
+#: widgets/z_process_cycle_new4.php:212
+msgid "Icon"
+msgstr ""
+
+#: widgets/about_us.php:107
+msgid "Please use reguler font"
+msgstr ""
+
+#: widgets/about_us.php:116 widgets/partners.php:69
+#: widgets/partners_classic.php:160 widgets/partners_grid.php:158
+#: widgets/partners_slider.php:75
+msgid "Add Client"
+msgstr ""
+
+#: widgets/ad_post_modern.php:15
+msgid "Ad Post - Modern"
+msgstr ""
+
+#: widgets/ad_post_modern.php:30
+msgid "General Settings"
+msgstr ""
+
+#: widgets/ad_post_modern.php:35 widgets/z_ad_post_fancy.php:36
+msgid "Ad Post Form Type"
+msgstr ""
+
+#: widgets/ad_post_modern.php:38 widgets/z_ad_post_fancy.php:38
+msgid "Select Post Form"
+msgstr ""
+
+#: widgets/ad_post_modern.php:39 widgets/z_ad_post_fancy.php:40
+msgid "Default Form"
+msgstr ""
+
+#: widgets/ad_post_modern.php:40 widgets/z_ad_post_fancy.php:41
+msgid "Categories Based Form"
+msgstr ""
+
+#: widgets/ad_post_modern.php:47 widgets/ad_post_modern.php:134
+#: widgets/z_ad_post_fancy.php:48
+msgid "Terms & Condition Field"
+msgstr ""
+
+#: widgets/ad_post_modern.php:50 widgets/z_ad_post_fancy.php:52
+msgid "Hide"
+msgstr ""
+
+#: widgets/ad_post_modern.php:51 widgets/grid_modern.php:61
+#: widgets/z_ad_post_fancy.php:53
+msgid "Show"
+msgstr ""
+
+#: widgets/ad_post_modern.php:58 widgets/sign_up.php:54 widgets/sign_up.php:57
+#: widgets/z_ad_post_fancy.php:60
+msgid "Terms & Condition Title"
+msgstr ""
+
+#: widgets/ad_post_modern.php:77
+msgid "Terms & Conditions Link"
+msgstr ""
+
+#: widgets/ad_post_modern.php:119 widgets/apps_classic.php:109
+#: widgets/apps_classic.php:112 widgets/apps_classic.php:142
+#: widgets/apps_classic.php:145 widgets/apps_simple.php:65
+#: widgets/apps_simple.php:68 widgets/apps_simple.php:100
+#: widgets/apps_simple.php:103 widgets/apps_simple.php:135
+#: widgets/apps_simple.php:138 widgets/call_to_action.php:58
+#: widgets/call_to_action.php:61 widgets/fun_facts.php:71
+#: widgets/process_cycle.php:84 widgets/process_cycle.php:87
+#: widgets/process_cycle.php:120 widgets/process_cycle.php:123
+#: widgets/process_cycle.php:156 widgets/process_cycle.php:159
+#: widgets/process_cycle2.php:85 widgets/process_cycle2.php:91
+#: widgets/process_cycle2.php:94 widgets/process_cycle2.php:119
+#: widgets/process_cycle2.php:124 widgets/process_cycle2.php:127
+#: widgets/process_cycle2.php:151 widgets/process_cycle2.php:156
+#: widgets/process_cycle2.php:159 widgets/testimonial_modern.php:85
+#: widgets/testimonial_modern.php:88 widgets/why_chose.php:143
+#: widgets/y_fun_facts2.php:80 widgets/y_process_cycle3.php:137
+#: widgets/y_process_cycle3.php:170 widgets/y_process_cycle3.php:202
+#: widgets/z_call_to_action_toy.php:35 widgets/z_faqs_modern.php:98
+#: widgets/z_process_cycle_new4.php:146 widgets/z_process_cycle_new4.php:184
+#: widgets/z_process_cycle_new4.php:223 widgets/z_testimonial_modern.php:60
+#: widgets/z_testimonial_modern.php:63
+msgid "Title"
+msgstr ""
+
+#: widgets/ad_post_modern.php:126 widgets/z_ad_post_fancy.php:128
+msgid "Slug"
+msgstr ""
+
+#: widgets/ad_post_modern.php:137 widgets/z_ad_post_fancy.php:139
+msgid "Textfield"
+msgstr ""
+
+#: widgets/ad_post_modern.php:138 widgets/z_ad_post_fancy.php:140
+msgid "Select/List"
+msgstr ""
+
+#: widgets/ad_post_modern.php:144 widgets/z_ad_post_fancy.php:148
+msgid "Values for Select/List"
+msgstr ""
+
+#: widgets/ad_post_modern.php:146 widgets/z_ad_post_fancy.php:150
+msgid "Like: value1,value2,value3"
+msgstr ""
+
+#: widgets/ads.php:15
+msgid "ADs"
+msgstr ""
+
+#: widgets/ads.php:38 widgets/ads_cats_boxes.php:36 widgets/ads_grid.php:37
+#: widgets/ads_list.php:37 widgets/ads_slider_modern.php:36
+#: widgets/ads_slider_modern2.php:35 widgets/ads_slider_modern3.php:35
+#: widgets/ads_with_sidebar.php:28 widgets/advertisement_720_90.php:37
+#: widgets/cats_classic.php:50 widgets/cats_fancy.php:50
+#: widgets/cats_flat.php:49 widgets/cats_minimal.php:49
+#: widgets/cats_modern.php:49 widgets/faq.php:36 widgets/feature_modern.php:35
+#: widgets/feature_modern_2.php:35 widgets/grid_modern.php:37
+#: widgets/partners.php:38 widgets/partners_classic.php:37
+#: widgets/partners_grid.php:35 widgets/partners_slider.php:38
+#: widgets/process_cycle.php:38 widgets/process_cycle2.php:38
+#: widgets/products_classic.php:37 widgets/products_minimal.php:37
+#: widgets/products_modern.php:38 widgets/products_simple.php:37
+#: widgets/why_chose.php:38 widgets/z_shop_layout3.php:38
+#: widgets/z_shop_layout_book.php:38 widgets/z_shop_layout_book_2.php:38
+#: widgets/z_success_stories_2.php:38
+msgid "Background"
+msgstr ""
+
+#: widgets/ads.php:41 widgets/ads_cats_boxes.php:39
+#: widgets/ads_countries.php:52 widgets/ads_countries2.php:53
+#: widgets/ads_grid.php:40 widgets/ads_list.php:40
+#: widgets/ads_slider_modern.php:39 widgets/ads_slider_modern2.php:38
+#: widgets/ads_slider_modern3.php:38 widgets/ads_with_sidebar.php:31
+#: widgets/advertisement_720_90.php:40 widgets/apps_modern.php:42
+#: widgets/cats_classic.php:53 widgets/cats_fancy.php:53
+#: widgets/cats_flat.php:52 widgets/cats_minimal.php:52
+#: widgets/cats_modern.php:52 widgets/faq.php:39 widgets/feature_modern.php:38
+#: widgets/feature_modern_2.php:38 widgets/grid_modern.php:40
+#: widgets/partners.php:41 widgets/partners_classic.php:40
+#: widgets/partners_grid.php:38 widgets/partners_slider.php:41
+#: widgets/process_cycle.php:41 widgets/process_cycle2.php:41
+#: widgets/products_classic.php:40 widgets/products_minimal.php:40
+#: widgets/products_modern.php:41 widgets/products_simple.php:40
+#: widgets/testimonial_modern.php:40 widgets/why_chose.php:41
+#: widgets/y_cats_1.php:61 widgets/y_cats_classic_2.php:50
+#: widgets/y_process_cycle3.php:41 widgets/y_products_new.php:40
+#: widgets/y_shop_layout.php:40 widgets/z_adforest_ads_listing_services.php:40
+#: widgets/z_adforest_brands.php:41
+#: widgets/z_adforest_callto_action_service.php:40
+#: widgets/z_adforest_category_ads_slider.php:40
+#: widgets/z_adforest_cats_services.php:53
+#: widgets/z_ads_countries_listings.php:62 widgets/z_ads_tab_modern6.php:39
+#: widgets/z_ads_team_member.php:41 widgets/z_apps_call_to_action.php:39
+#: widgets/z_awesome_features_modern.php:39 widgets/z_call_to_action3.php:106
+#: widgets/z_call_to_action_techy.php:130 widgets/z_faqs_modern.php:39
+#: widgets/z_partners_modern.php:39 widgets/z_process_cycle_new4.php:41
+#: widgets/z_shop_layout2.php:41 widgets/z_shop_layout3.php:41
+#: widgets/z_shop_layout_book.php:41 widgets/z_shop_layout_book_2.php:41
+#: widgets/z_success_stories_2.php:41 widgets/z_testimonial_modern.php:39
+msgid "White"
+msgstr ""
+
+#: widgets/ads.php:42 widgets/ads_cats_boxes.php:40
+#: widgets/ads_countries.php:53 widgets/ads_countries2.php:54
+#: widgets/ads_grid.php:41 widgets/ads_list.php:41
+#: widgets/ads_slider_modern.php:40 widgets/ads_slider_modern2.php:39
+#: widgets/ads_slider_modern3.php:39 widgets/ads_with_sidebar.php:32
+#: widgets/advertisement_720_90.php:41 widgets/apps_modern.php:43
+#: widgets/cats_classic.php:54 widgets/cats_fancy.php:54
+#: widgets/cats_flat.php:53 widgets/cats_minimal.php:53
+#: widgets/cats_modern.php:53 widgets/faq.php:40 widgets/feature_modern.php:39
+#: widgets/feature_modern_2.php:39 widgets/grid_modern.php:41
+#: widgets/partners.php:42 widgets/partners_classic.php:41
+#: widgets/partners_grid.php:39 widgets/partners_slider.php:42
+#: widgets/process_cycle.php:42 widgets/process_cycle2.php:42
+#: widgets/products_classic.php:41 widgets/products_minimal.php:41
+#: widgets/products_modern.php:42 widgets/products_simple.php:41
+#: widgets/testimonial_modern.php:41 widgets/why_chose.php:42
+#: widgets/y_cats_1.php:62 widgets/y_cats_classic_2.php:51
+#: widgets/y_process_cycle3.php:42 widgets/y_products_new.php:41
+#: widgets/y_shop_layout.php:41 widgets/z_adforest_ads_listing_services.php:41
+#: widgets/z_adforest_brands.php:42
+#: widgets/z_adforest_callto_action_service.php:41
+#: widgets/z_adforest_category_ads_slider.php:41
+#: widgets/z_adforest_cats_services.php:54
+#: widgets/z_ads_countries_listings.php:63 widgets/z_ads_tab_modern6.php:40
+#: widgets/z_ads_team_member.php:42 widgets/z_apps_call_to_action.php:40
+#: widgets/z_awesome_features_modern.php:40 widgets/z_call_to_action3.php:107
+#: widgets/z_call_to_action_techy.php:131 widgets/z_faqs_modern.php:40
+#: widgets/z_partners_modern.php:40 widgets/z_process_cycle_new4.php:42
+#: widgets/z_shop_layout2.php:42 widgets/z_shop_layout3.php:42
+#: widgets/z_shop_layout_book.php:42 widgets/z_shop_layout_book_2.php:42
+#: widgets/z_success_stories_2.php:42 widgets/z_testimonial_modern.php:40
+msgid "Gray"
+msgstr ""
+
+#: widgets/ads.php:43 widgets/ads_cats_boxes.php:41
+#: widgets/advertisement_720_90.php:42 widgets/cats_classic.php:55
+#: widgets/cats_fancy.php:55 widgets/cats_fancy.php:174
+#: widgets/cats_flat.php:54 widgets/cats_minimal.php:54
+#: widgets/cats_modern.php:54 widgets/cats_modern.php:173
+#: widgets/partners_classic.php:42 widgets/partners_grid.php:40
+#: widgets/products_classic.php:42 widgets/products_minimal.php:42
+#: widgets/products_simple.php:42 widgets/why_chose.php:43
+#: widgets/y_shop_layout.php:42 widgets/z_apps_screenshots_slider.php:40
+#: widgets/z_apps_screenshots_slider.php:164
+#: widgets/z_awesome_features_modern.php:41
+#: widgets/z_awesome_features_modern.php:173 widgets/z_call_to_action3.php:92
+#: widgets/z_main_call_to_action_modern.php:240 widgets/z_shop_layout2.php:43
+#: widgets/z_shop_layout3.php:43 widgets/z_shop_layout_book.php:43
+#: widgets/z_shop_layout_book_2.php:43 widgets/z_success_stories_2.php:158
+msgid "Image"
+msgstr ""
+
+#: widgets/ads.php:50 widgets/ads_cats_boxes.php:48
+#: widgets/advertisement_720_90.php:49 widgets/call_to_action.php:36
+#: widgets/cats_classic.php:62 widgets/cats_fancy.php:62
+#: widgets/cats_flat.php:61 widgets/cats_minimal.php:61
+#: widgets/cats_modern.php:61 widgets/partners_classic.php:49
+#: widgets/partners_grid.php:47 widgets/popular_cats.php:38
+#: widgets/products_classic.php:49 widgets/products_minimal.php:49
+#: widgets/products_simple.php:49 widgets/search_hero2.php:35
+#: widgets/search_simple.php:36 widgets/why_chose.php:50
+#: widgets/y_clouds.php:37 widgets/y_fun_facts2.php:35
+#: widgets/y_search_hero3.php:36 widgets/y_search_hero4.php:36
+#: widgets/y_shop_layout.php:49 widgets/z_adforest_hero_book.php:57
+#: widgets/z_adforest_hero_decoration.php:58
+#: widgets/z_adforest_hero_sports.php:71
+#: widgets/z_adforest_locations_slider.php:36 widgets/z_adforest_sales.php:50
+#: widgets/z_adforest_sales.php:96 widgets/z_apps_screenshots_slider.php:47
+#: widgets/z_awesome_features_modern.php:48 widgets/z_shop_layout2.php:50
+#: widgets/z_shop_layout3.php:50 widgets/z_shop_layout_book.php:50
+#: widgets/z_shop_layout_book_2.php:50
+msgid "Background Image"
+msgstr ""
+
+#: widgets/ads.php:71 widgets/ads_cats_boxes.php:69
+#: widgets/ads_countries.php:59 widgets/ads_countries2.php:62
+#: widgets/ads_slider_modern.php:47 widgets/ads_slider_modern2.php:46
+#: widgets/advertisement_720_90.php:70 widgets/blog.php:38
+#: widgets/cats_classic.php:83 widgets/cats_fancy.php:83
+#: widgets/cats_flat.php:82 widgets/cats_minimal.php:82
+#: widgets/cats_modern.php:82 widgets/partners_classic.php:70
+#: widgets/partners_grid.php:68 widgets/products_classic.php:70
+#: widgets/products_minimal.php:70 widgets/products_simple.php:70
+#: widgets/why_chose.php:71 widgets/y_cats_classic_2.php:57
+#: widgets/y_process_cycle3.php:49 widgets/y_products_new.php:47
+#: widgets/y_shop_layout.php:71 widgets/z_adforest_ads_listing_services.php:48
+#: widgets/z_adforest_cats_sports.php:48
+#: widgets/z_adforest_locations_slider.php:47
+#: widgets/z_adforest_search_services.php:37 widgets/z_adforest_services.php:37
+#: widgets/z_adforest_shop_services.php:38
+#: widgets/z_ads_countries_listings.php:73 widgets/z_ads_team_member.php:50
+#: widgets/z_apps_screenshots_slider.php:68
+#: widgets/z_awesome_features_modern.php:69 widgets/z_browse_categories.php:36
+#: widgets/z_browse_categories2.php:35 widgets/z_partners_modern.php:59
+#: widgets/z_process_cycle_new4.php:50 widgets/z_shop_layout2.php:71
+#: widgets/z_shop_layout3.php:71 widgets/z_shop_layout_book.php:71
+#: widgets/z_shop_layout_book_2.php:71 widgets/z_success_stories_2.php:51
+msgid "Header Style"
+msgstr ""
+
+#: widgets/ads.php:74 widgets/ads_cats_boxes.php:72
+#: widgets/ads_countries.php:62 widgets/ads_countries2.php:67
+#: widgets/ads_slider_modern.php:50 widgets/ads_slider_modern2.php:49
+#: widgets/advertisement_720_90.php:73 widgets/blog.php:41
+#: widgets/cats_classic.php:86 widgets/cats_fancy.php:86
+#: widgets/cats_flat.php:85 widgets/cats_minimal.php:85
+#: widgets/cats_modern.php:85 widgets/partners_classic.php:73
+#: widgets/partners_grid.php:71 widgets/products_classic.php:73
+#: widgets/products_minimal.php:73 widgets/products_simple.php:73
+#: widgets/why_chose.php:74 widgets/y_cats_classic_2.php:62
+#: widgets/y_process_cycle3.php:54 widgets/y_products_new.php:51
+#: widgets/y_shop_layout.php:76 widgets/z_adforest_ads_listing_services.php:52
+#: widgets/z_adforest_cats_sports.php:53
+#: widgets/z_adforest_locations_slider.php:51
+#: widgets/z_adforest_search_services.php:41 widgets/z_adforest_services.php:41
+#: widgets/z_adforest_shop_services.php:42
+#: widgets/z_ads_countries_listings.php:77 widgets/z_ads_team_member.php:54
+#: widgets/z_apps_screenshots_slider.php:72
+#: widgets/z_awesome_features_modern.php:73 widgets/z_browse_categories.php:39
+#: widgets/z_browse_categories2.php:39 widgets/z_partners_modern.php:63
+#: widgets/z_process_cycle_new4.php:54 widgets/z_shop_layout2.php:75
+#: widgets/z_shop_layout3.php:74 widgets/z_shop_layout_book.php:74
+#: widgets/z_shop_layout_book_2.php:74 widgets/z_success_stories_2.php:54
+msgid "No Header"
+msgstr ""
+
+#: widgets/ads.php:75 widgets/ads_cats_boxes.php:73
+#: widgets/ads_countries.php:63 widgets/ads_countries2.php:68
+#: widgets/ads_slider_modern.php:51 widgets/advertisement_720_90.php:74
+#: widgets/blog.php:42 widgets/cats_classic.php:87 widgets/cats_fancy.php:87
+#: widgets/cats_flat.php:86 widgets/cats_minimal.php:86
+#: widgets/cats_modern.php:86 widgets/partners_classic.php:74
+#: widgets/partners_grid.php:72 widgets/products_classic.php:74
+#: widgets/products_minimal.php:74 widgets/products_simple.php:74
+#: widgets/why_chose.php:75 widgets/y_cats_classic_2.php:63
+#: widgets/y_process_cycle3.php:55 widgets/y_products_new.php:52
+#: widgets/y_shop_layout.php:77 widgets/z_adforest_ads_listing_services.php:53
+#: widgets/z_adforest_cats_sports.php:54
+#: widgets/z_adforest_locations_slider.php:52
+#: widgets/z_adforest_search_services.php:42 widgets/z_adforest_services.php:42
+#: widgets/z_adforest_shop_services.php:43
+#: widgets/z_ads_countries_listings.php:78 widgets/z_ads_team_member.php:55
+#: widgets/z_apps_screenshots_slider.php:73
+#: widgets/z_awesome_features_modern.php:74 widgets/z_browse_categories.php:40
+#: widgets/z_browse_categories2.php:40 widgets/z_partners_modern.php:64
+#: widgets/z_process_cycle_new4.php:55 widgets/z_shop_layout2.php:76
+#: widgets/z_shop_layout3.php:75 widgets/z_shop_layout_book.php:75
+#: widgets/z_shop_layout_book_2.php:75 widgets/z_success_stories_2.php:55
+msgid "Classic"
+msgstr ""
+
+#: widgets/ads.php:76 widgets/ads_cats_boxes.php:74
+#: widgets/ads_countries.php:64 widgets/ads_countries2.php:69
+#: widgets/ads_slider_modern.php:52 widgets/ads_slider_modern2.php:50
+#: widgets/advertisement_720_90.php:75 widgets/blog.php:43
+#: widgets/cats_classic.php:88 widgets/cats_fancy.php:88
+#: widgets/cats_flat.php:87 widgets/cats_minimal.php:87
+#: widgets/cats_modern.php:87 widgets/partners_classic.php:75
+#: widgets/partners_grid.php:73 widgets/products_classic.php:75
+#: widgets/products_minimal.php:75 widgets/products_simple.php:75
+#: widgets/why_chose.php:76 widgets/y_cats_classic_2.php:64
+#: widgets/y_process_cycle3.php:56 widgets/y_products_new.php:53
+#: widgets/y_shop_layout.php:78 widgets/z_adforest_ads_listing_services.php:54
+#: widgets/z_adforest_cats_sports.php:55
+#: widgets/z_adforest_locations_slider.php:53
+#: widgets/z_adforest_search_services.php:43 widgets/z_adforest_services.php:43
+#: widgets/z_adforest_shop_services.php:44
+#: widgets/z_ads_countries_listings.php:79 widgets/z_ads_team_member.php:56
+#: widgets/z_apps_screenshots_slider.php:74
+#: widgets/z_awesome_features_modern.php:75 widgets/z_browse_categories.php:41
+#: widgets/z_browse_categories2.php:41 widgets/z_partners_modern.php:65
+#: widgets/z_process_cycle_new4.php:56 widgets/z_shop_layout2.php:77
+#: widgets/z_shop_layout3.php:76 widgets/z_shop_layout_book.php:76
+#: widgets/z_shop_layout_book_2.php:76 widgets/z_success_stories_2.php:56
+msgid "Regular"
+msgstr ""
+
+#: widgets/ads.php:86 widgets/ads_cats_boxes.php:84
+#: widgets/ads_cats_tabs_modern.php:46 widgets/ads_countries.php:75
+#: widgets/ads_countries2.php:99 widgets/ads_countries2.php:138
+#: widgets/ads_grid.php:57 widgets/ads_list.php:57
+#: widgets/ads_slider_modern.php:105 widgets/ads_slider_modern2.php:61
+#: widgets/ads_slider_modern3.php:50 widgets/advertisement_720_90.php:85
+#: widgets/apps_simple.php:41 widgets/blog.php:55 widgets/cats_classic.php:98
+#: widgets/cats_fancy.php:98 widgets/cats_flat.php:97
+#: widgets/cats_minimal.php:97 widgets/cats_modern.php:97 widgets/faq.php:50
+#: widgets/partners_classic.php:85 widgets/partners_grid.php:83
+#: widgets/popular_cats.php:51 widgets/process_cycle.php:51
+#: widgets/process_cycle2.php:59 widgets/product_cat_tabs.php:41
+#: widgets/product_cat_tabs_2.php:40 widgets/products_classic.php:85
+#: widgets/products_minimal.php:85 widgets/products_modern.php:62
+#: widgets/products_simple.php:85 widgets/search_modern.php:39
+#: widgets/search_simple.php:51 widgets/search_stylish.php:40
+#: widgets/sign_in.php:38 widgets/sign_in.php:65 widgets/sign_up.php:39
+#: widgets/sign_up.php:103 widgets/vendor_grid.php:38
+#: widgets/vendor_grid.php:65 widgets/why_chose.php:86 widgets/y_cats_1.php:71
+#: widgets/y_cats_classic_2.php:72 widgets/y_cats_classic_2.php:107
+#: widgets/y_process_cycle3.php:65 widgets/y_process_cycle3.php:102
+#: widgets/y_products_new.php:63 widgets/y_products_new.php:99
+#: widgets/y_shop_layout.php:87 widgets/y_shop_layout.php:124
+#: widgets/z_adforest_ads_listing_services.php:63
+#: widgets/z_adforest_cats_services.php:70
+#: widgets/z_adforest_cats_sports.php:64 widgets/z_adforest_cats_sports.php:101
+#: widgets/z_adforest_hero_section_toy.php:123
+#: widgets/z_adforest_hero_section_toy.php:146
+#: widgets/z_adforest_hero_sports.php:88
+#: widgets/z_adforest_locations_slider.php:65
+#: widgets/z_adforest_search_services.php:65 widgets/z_adforest_services.php:65
+#: widgets/z_adforest_shop_services.php:66
+#: widgets/z_ads_countries_listings.php:101
+#: widgets/z_apps_screenshots_slider.php:96
+#: widgets/z_awesome_features_modern.php:97 widgets/z_browse_categories.php:53
+#: widgets/z_browse_categories2.php:53 widgets/z_shop_layout2.php:99
+#: widgets/z_shop_layout3.php:86 widgets/z_shop_layout_book.php:87
+#: widgets/z_shop_layout_book_2.php:86 widgets/z_success_stories_2.php:66
+msgid "For color {color}warp text within this tag{/color}"
+msgstr ""
+
+#: widgets/ads.php:132 widgets/ads.php:135 widgets/ads_grid.php:73
+#: widgets/ads_grid.php:76 widgets/ads_list.php:73 widgets/ads_list.php:76
+#: widgets/ads_with_sidebar.php:116 widgets/ads_with_sidebar.php:119
+#: widgets/call_to_action.php:77 widgets/call_to_action.php:80
+#: widgets/feature_modern.php:108 widgets/feature_modern.php:111
+#: widgets/feature_modern_2.php:102 widgets/feature_modern_2.php:105
+#: widgets/grid_modern.php:186 widgets/grid_modern.php:189
+#: widgets/why_chose.php:161 widgets/y_shop_layout.php:172
+#: widgets/y_shop_layout.php:175 widgets/z_partners_modern.php:151
+#: widgets/z_shop_layout3.php:179 widgets/z_shop_layout3.php:182
+msgid "Link Title"
+msgstr ""
+
+#: widgets/ads.php:140 widgets/ads_grid.php:81 widgets/ads_list.php:81
+#: widgets/call_to_action.php:86
+msgid "Read More Link"
+msgstr ""
+
+#: widgets/ads.php:155 widgets/ads_cats_boxes.php:133
+#: widgets/ads_cats_tabs_modern.php:65 widgets/ads_google_map_modern.php:30
+#: widgets/ads_grid.php:96 widgets/ads_list.php:96
+#: widgets/ads_slider_modern.php:135 widgets/ads_slider_modern2.php:82
+#: widgets/ads_slider_modern3.php:60 widgets/ads_with_sidebar.php:52
+#: widgets/feature_modern.php:66 widgets/feature_modern_2.php:60
+#: widgets/grid_modern.php:123 widgets/z_adforest_ads_listing_services.php:138
+#: widgets/z_adforest_brands.php:50 widgets/z_adforest_hero_realestate.php:30
+#: widgets/z_ads_tab_modern6.php:87
+msgid "Ads Settings"
+msgstr ""
+
+#: widgets/ads.php:161 widgets/ads_cats_boxes.php:139
+#: widgets/ads_cats_tabs_modern.php:70 widgets/ads_google_map_modern.php:35
+#: widgets/ads_grid.php:102 widgets/ads_list.php:102
+#: widgets/ads_slider_modern.php:141 widgets/ads_slider_modern2.php:88
+#: widgets/ads_slider_modern3.php:66 widgets/ads_with_sidebar.php:79
+#: widgets/feature_modern.php:71 widgets/feature_modern_2.php:65
+#: widgets/grid_modern.php:149 widgets/z_adforest_ads_listing_services.php:153
+#: widgets/z_adforest_brands.php:63
+#: widgets/z_adforest_category_ads_slider.php:47
+#: widgets/z_adforest_category_ads_slider.php:257
+#: widgets/z_adforest_hero_realestate.php:45 widgets/z_ads_tab_modern6.php:116
+#: widgets/z_ads_with_sidebar.php:46
+msgid "Ads Type"
+msgstr ""
+
+#: widgets/ads.php:164 widgets/ads_cats_boxes.php:142
+#: widgets/ads_cats_tabs_modern.php:73 widgets/ads_google_map_modern.php:38
+#: widgets/ads_grid.php:105 widgets/ads_list.php:105
+#: widgets/ads_slider_modern.php:144 widgets/ads_slider_modern2.php:91
+#: widgets/ads_slider_modern3.php:69 widgets/ads_with_sidebar.php:82
+#: widgets/feature_modern.php:74 widgets/feature_modern_2.php:68
+#: widgets/grid_modern.php:152 widgets/z_adforest_ads_listing_services.php:155
+#: widgets/z_adforest_brands.php:66
+#: widgets/z_adforest_category_ads_slider.php:50
+#: widgets/z_adforest_category_ads_slider.php:262
+#: widgets/z_adforest_hero_realestate.php:47 widgets/z_ads_tab_modern6.php:119
+#: widgets/z_ads_with_sidebar.php:49
+msgid "Select Ads Type"
+msgstr ""
+
+#: widgets/ads.php:165 widgets/ads_cats_boxes.php:143
+#: widgets/ads_cats_tabs_modern.php:75 widgets/ads_google_map_modern.php:39
+#: widgets/ads_grid.php:106 widgets/ads_list.php:106
+#: widgets/ads_slider_modern.php:145 widgets/ads_slider_modern2.php:92
+#: widgets/ads_slider_modern3.php:70 widgets/ads_with_sidebar.php:84
+#: widgets/feature_modern.php:76 widgets/feature_modern_2.php:70
+#: widgets/grid_modern.php:154 widgets/z_adforest_ads_listing_services.php:157
+#: widgets/z_adforest_brands.php:68
+#: widgets/z_adforest_category_ads_slider.php:52
+#: widgets/z_adforest_category_ads_slider.php:263
+#: widgets/z_adforest_hero_realestate.php:49 widgets/z_ads_tab_modern6.php:120
+#: widgets/z_ads_with_sidebar.php:50
+msgid "Featured Ads"
+msgstr ""
+
+#: widgets/ads.php:166 widgets/ads_cats_boxes.php:144
+#: widgets/ads_cats_tabs_modern.php:76 widgets/ads_google_map_modern.php:40
+#: widgets/ads_grid.php:107 widgets/ads_list.php:107
+#: widgets/ads_slider_modern.php:146 widgets/ads_slider_modern2.php:93
+#: widgets/ads_slider_modern3.php:71 widgets/ads_with_sidebar.php:85
+#: widgets/feature_modern.php:77 widgets/feature_modern_2.php:71
+#: widgets/grid_modern.php:155 widgets/z_adforest_ads_listing_services.php:158
+#: widgets/z_adforest_brands.php:69
+#: widgets/z_adforest_category_ads_slider.php:53
+#: widgets/z_adforest_category_ads_slider.php:264
+#: widgets/z_adforest_hero_realestate.php:50 widgets/z_ads_tab_modern6.php:121
+#: widgets/z_ads_with_sidebar.php:51
+msgid "Simple Ads"
+msgstr ""
+
+#: widgets/ads.php:167 widgets/ads_cats_boxes.php:145
+#: widgets/ads_cats_tabs_modern.php:77 widgets/ads_google_map_modern.php:41
+#: widgets/ads_grid.php:108 widgets/ads_list.php:108
+#: widgets/ads_slider_modern.php:147 widgets/ads_slider_modern2.php:94
+#: widgets/ads_slider_modern3.php:72 widgets/ads_with_sidebar.php:86
+#: widgets/feature_modern.php:78 widgets/feature_modern_2.php:72
+#: widgets/grid_modern.php:156 widgets/z_adforest_ads_listing_services.php:159
+#: widgets/z_adforest_brands.php:70
+#: widgets/z_adforest_category_ads_slider.php:54
+#: widgets/z_adforest_category_ads_slider.php:265
+#: widgets/z_adforest_hero_realestate.php:51 widgets/z_ads_tab_modern6.php:122
+#: widgets/z_ads_with_sidebar.php:52
+msgid "Both"
+msgstr ""
+
+#: widgets/ads.php:174 widgets/ads_cats_boxes.php:152
+#: widgets/ads_cats_tabs_modern.php:83 widgets/ads_google_map_modern.php:48
+#: widgets/ads_grid.php:115 widgets/ads_list.php:115
+#: widgets/ads_slider_modern.php:154 widgets/ads_slider_modern2.php:101
+#: widgets/ads_slider_modern3.php:79 widgets/ads_with_sidebar.php:92
+#: widgets/feature_modern.php:84 widgets/feature_modern_2.php:78
+#: widgets/grid_modern.php:162 widgets/z_adforest_ads_listing_services.php:166
+#: widgets/z_adforest_brands.php:77
+#: widgets/z_adforest_category_ads_slider.php:60
+#: widgets/z_adforest_category_ads_slider.php:285
+#: widgets/z_adforest_hero_realestate.php:58 widgets/z_ads_tab_modern6.php:129
+#: widgets/z_ads_with_sidebar.php:58
+msgid "Order By"
+msgstr ""
+
+#: widgets/ads.php:177 widgets/ads_cats_boxes.php:155
+#: widgets/ads_cats_tabs_modern.php:85 widgets/ads_google_map_modern.php:51
+#: widgets/ads_grid.php:118 widgets/ads_list.php:118
+#: widgets/ads_slider_modern.php:157 widgets/ads_slider_modern2.php:104
+#: widgets/ads_slider_modern3.php:82 widgets/ads_with_sidebar.php:95
+#: widgets/feature_modern.php:87 widgets/feature_modern_2.php:81
+#: widgets/grid_modern.php:165 widgets/z_adforest_ads_listing_services.php:168
+#: widgets/z_adforest_brands.php:80
+#: widgets/z_adforest_category_ads_slider.php:63
+#: widgets/z_adforest_category_ads_slider.php:260
+#: widgets/z_adforest_category_ads_slider.php:288
+#: widgets/z_adforest_hero_realestate.php:60 widgets/z_ads_tab_modern6.php:132
+#: widgets/z_ads_with_sidebar.php:61
+msgid "Select Ads order"
+msgstr ""
+
+#: widgets/ads.php:178 widgets/ads_cats_boxes.php:156
+#: widgets/ads_cats_tabs_modern.php:87 widgets/ads_google_map_modern.php:52
+#: widgets/ads_grid.php:119 widgets/ads_list.php:119
+#: widgets/ads_slider_modern.php:158 widgets/ads_slider_modern2.php:105
+#: widgets/ads_slider_modern3.php:83 widgets/ads_with_sidebar.php:97
+#: widgets/feature_modern.php:89 widgets/feature_modern_2.php:83
+#: widgets/grid_modern.php:167 widgets/z_adforest_ads_listing_services.php:170
+#: widgets/z_adforest_brands.php:82
+#: widgets/z_adforest_category_ads_slider.php:65
+#: widgets/z_adforest_category_ads_slider.php:290
+#: widgets/z_adforest_hero_realestate.php:62 widgets/z_ads_tab_modern6.php:133
+#: widgets/z_ads_with_sidebar.php:62
+msgid "Oldest"
+msgstr ""
+
+#: widgets/ads.php:179 widgets/ads_cats_boxes.php:157
+#: widgets/ads_cats_tabs_modern.php:88 widgets/ads_google_map_modern.php:53
+#: widgets/ads_grid.php:120 widgets/ads_list.php:120
+#: widgets/ads_slider_modern.php:159 widgets/ads_slider_modern2.php:106
+#: widgets/ads_slider_modern3.php:84 widgets/ads_with_sidebar.php:98
+#: widgets/feature_modern.php:90 widgets/feature_modern_2.php:84
+#: widgets/grid_modern.php:168 widgets/z_adforest_ads_listing_services.php:171
+#: widgets/z_adforest_brands.php:83
+#: widgets/z_adforest_category_ads_slider.php:66
+#: widgets/z_adforest_category_ads_slider.php:291
+#: widgets/z_adforest_hero_realestate.php:63 widgets/z_ads_tab_modern6.php:134
+#: widgets/z_ads_with_sidebar.php:63
+msgid "Latest"
+msgstr ""
+
+#: widgets/ads.php:180 widgets/ads_cats_boxes.php:158
+#: widgets/ads_cats_tabs_modern.php:89 widgets/ads_google_map_modern.php:54
+#: widgets/ads_grid.php:121 widgets/ads_list.php:121
+#: widgets/ads_slider_modern.php:160 widgets/ads_slider_modern2.php:107
+#: widgets/ads_slider_modern3.php:85 widgets/ads_with_sidebar.php:99
+#: widgets/feature_modern.php:91 widgets/feature_modern_2.php:85
+#: widgets/grid_modern.php:169 widgets/z_adforest_ads_listing_services.php:172
+#: widgets/z_adforest_brands.php:84
+#: widgets/z_adforest_category_ads_slider.php:67
+#: widgets/z_adforest_category_ads_slider.php:292
+#: widgets/z_adforest_hero_realestate.php:64 widgets/z_ads_tab_modern6.php:135
+#: widgets/z_ads_with_sidebar.php:64
+msgid "Random"
+msgstr ""
+
+#: widgets/ads.php:187 widgets/ads_cats_boxes.php:165
+#: widgets/ads_slider_modern.php:167 widgets/ads_slider_modern2.php:114
+#: widgets/ads_slider_modern3.php:92
+#: widgets/z_adforest_ads_listing_services.php:144
+#: widgets/z_ads_tab_modern6.php:95 widgets/z_ads_with_sidebar.php:95
+msgid "Layout Type"
+msgstr ""
+
+#: widgets/ads.php:197 widgets/ads_cats_boxes.php:173
+#: widgets/ads_google_map_modern.php:60 widgets/ads_grid.php:127
+#: widgets/ads_list.php:127 widgets/ads_slider_modern.php:175
+#: widgets/ads_slider_modern2.php:122 widgets/ads_slider_modern3.php:100
+#: widgets/z_ads_with_sidebar.php:72
+msgid "Number fo Ads"
+msgstr ""
+
+#: widgets/ads.php:209 widgets/ads_cats_boxes.php:185
+#: widgets/ads_cats_tabs_modern.php:107 widgets/ads_google_map_modern.php:135
+#: widgets/ads_grid.php:137 widgets/ads_list.php:137
+#: widgets/ads_slider_modern.php:187 widgets/ads_slider_modern2.php:134
+#: widgets/ads_slider_modern3.php:134 widgets/blog.php:164
+#: widgets/cat_slider.php:30 widgets/cats_classic.php:156
+#: widgets/cats_color.php:60 widgets/cats_fancy.php:156
+#: widgets/cats_flat.php:155 widgets/cats_minimal.php:157
+#: widgets/cats_modern.php:155 widgets/grid_modern.php:49
+#: widgets/main_hero1.php:153 widgets/popular_cats.php:70
+#: widgets/product_cat_tabs.php:81 widgets/product_cat_tabs_2.php:59
+#: widgets/search_hero2.php:105 widgets/search_modern2.php:86
+#: widgets/y_cats_1.php:77 widgets/y_cats_classic_2.php:134
+#: widgets/y_search_hero3.php:96 widgets/y_search_hero4.php:81
+#: widgets/z_adforest_ads_listing_services.php:190
+#: widgets/z_adforest_category_ads_slider.php:163
+#: widgets/z_adforest_cats_sports.php:136
+#: widgets/z_adforest_hero_decoration.php:71
+#: widgets/z_adforest_hero_realestate.php:162
+#: widgets/z_adforest_locations_slider.php:148
+#: widgets/z_ads_tab_modern6.php:172 widgets/z_browse_categories.php:118
+#: widgets/z_browse_categories2.php:172
+#: widgets/z_main_call_to_action_modern.php:148
+msgid "Categories"
+msgstr ""
+
+#: widgets/ads.php:215 widgets/ads_cats_boxes.php:194
+#: widgets/ads_google_map_modern.php:141 widgets/ads_grid.php:142
+#: widgets/ads_list.php:142 widgets/ads_slider_modern.php:193
+#: widgets/ads_slider_modern2.php:140 widgets/ads_slider_modern3.php:140
+#: widgets/blog.php:170 widgets/cats_classic.php:165 widgets/cats_color.php:69
+#: widgets/cats_fancy.php:165 widgets/cats_flat.php:164
+#: widgets/cats_minimal.php:166 widgets/cats_modern.php:164
+#: widgets/popular_cats.php:79 widgets/product_cat_tabs.php:86
+#: widgets/product_cat_tabs_2.php:64 widgets/products_classic.php:163
+#: widgets/products_minimal.php:163 widgets/products_simple.php:163
+#: widgets/search_fancy.php:106 widgets/search_modern.php:125
+#: widgets/search_modern2.php:94 widgets/search_modern2.php:111
+#: widgets/search_stylish.php:85 widgets/vendor_grid.php:45
+#: widgets/y_cats_1.php:85 widgets/y_cats_classic_2.php:142
+#: widgets/z_adforest_ads_listing_services.php:198
+#: widgets/z_adforest_category_ads_slider.php:94
+#: widgets/z_adforest_cats_services.php:93
+#: widgets/z_adforest_hero_decoration.php:79
+#: widgets/z_adforest_hero_realestate.php:141
+#: widgets/z_adforest_hero_realestate.php:169
+#: widgets/z_adforest_hero_section_toy.php:72
+#: widgets/z_adforest_shop_services.php:156 widgets/z_ads_tab_modern6.php:183
+#: widgets/z_ads_with_sidebar.php:224 widgets/z_partners_modern.php:139
+#: widgets/z_shop_layout2.php:239 widgets/z_shop_layout3.php:227
+#: widgets/z_shop_layout_book.php:262 widgets/z_shop_layout_book_2.php:205
+msgid "Select Category"
+msgstr ""
+
+#: widgets/ads_cats_boxes.php:14
+msgid "ADs - with Cats boxes"
+msgstr ""
+
+#: widgets/ads_cats_boxes.php:215
+msgid "Add Categories"
+msgstr ""
+
+#: widgets/ads_cats_tabs_modern.php:14
+msgid "ADs Tabs Modern"
+msgstr ""
+
+#: widgets/ads_cats_tabs_modern.php:35 widgets/ads_countries2.php:77
+#: widgets/ads_grid.php:47 widgets/ads_list.php:47
+#: widgets/ads_with_sidebar.php:58 widgets/apps_classic.php:47
+#: widgets/feature_modern.php:45 widgets/grid_modern.php:128
+#: widgets/process_cycle2.php:49 widgets/product_bg.php:35
+#: widgets/product_bg.php:38 widgets/products_modern.php:51
+#: widgets/search_fancy.php:45 widgets/search_fancy.php:48
+#: widgets/search_modern.php:46 widgets/search_modern.php:49
+#: widgets/search_simple.php:58 widgets/video_hero.php:45
+#: widgets/y_search_hero3.php:71 widgets/z_adforest_cats_services.php:60
+msgid "Section Tagline"
+msgstr ""
+
+#: widgets/ads_cats_tabs_modern.php:96
+#: widgets/z_adforest_ads_listing_services.php:179
+#: widgets/z_adforest_brands.php:92
+#: widgets/z_adforest_category_ads_slider.php:74
+#: widgets/z_adforest_hero_realestate.php:71
+msgid "Number of Ads for each category"
+msgstr ""
+
+#: widgets/ads_cats_tabs_modern.php:113 widgets/search_fancy.php:89
+#: widgets/search_modern.php:108 widgets/search_stylish.php:68
+#: widgets/y_cats_1.php:103 widgets/y_cats_classic_2.php:159
+#: widgets/z_adforest_ads_listing_services.php:201
+#: widgets/z_adforest_category_ads_slider.php:120
+#: widgets/z_adforest_category_ads_slider.php:191
+#: widgets/z_adforest_cats_services.php:95
+#: widgets/z_adforest_cats_services.php:113
+#: widgets/z_adforest_cats_sports.php:144
+#: widgets/z_adforest_cats_sports.php:146
+#: widgets/z_adforest_cats_sports.php:164
+#: widgets/z_adforest_contact_info.php:85
+#: widgets/z_adforest_hero_decoration.php:81
+#: widgets/z_adforest_hero_decoration.php:99
+#: widgets/z_adforest_hero_section_toy.php:62
+#: widgets/z_ads_with_sidebar.php:188 widgets/z_browse_categories.php:141
+#: widgets/z_browse_categories2.php:181 widgets/z_shop_layout2.php:242
+msgid "Category"
+msgstr ""
+
+#: widgets/ads_countries.php:15
+msgid "Custom Locations Slider"
+msgstr ""
+
+#: widgets/ads_countries.php:35 widgets/ads_countries2.php:36
+#: widgets/cats_classic.php:38 widgets/cats_color.php:37
+#: widgets/cats_fancy.php:38 widgets/cats_flat.php:37
+#: widgets/cats_minimal.php:37 widgets/cats_modern.php:37
+#: widgets/main_hero1.php:142 widgets/search_modern2.php:30
+#: widgets/y_cats_1.php:45 widgets/y_cats_classic_2.php:34
+#: widgets/z_adforest_cats_services.php:36
+#: widgets/z_adforest_cats_sports.php:36 widgets/z_ads_with_sidebar.php:172
+#: widgets/z_browse_categories.php:124 widgets/z_browse_categories2.php:137
+msgid "Category link Page"
+msgstr ""
+
+#: widgets/ads_countries.php:39 widgets/ads_countries2.php:40
+#: widgets/cats_classic.php:42 widgets/cats_color.php:41
+#: widgets/cats_fancy.php:42 widgets/cats_flat.php:41
+#: widgets/cats_minimal.php:41 widgets/cats_modern.php:41
+#: widgets/main_hero1.php:146 widgets/search_modern2.php:33
+#: widgets/y_cats_1.php:49 widgets/y_cats_classic_2.php:38
+#: widgets/z_adforest_cats_services.php:40
+#: widgets/z_adforest_cats_sports.php:40
+#: widgets/z_adforest_locations_slider.php:132
+#: widgets/z_ads_countries_listings.php:164 widgets/z_ads_with_sidebar.php:176
+#: widgets/z_browse_categories.php:131 widgets/z_browse_categories2.php:144
+msgid "Search Page"
+msgstr ""
+
+#: widgets/ads_countries.php:40 widgets/ads_countries2.php:41
+#: widgets/cats_classic.php:43 widgets/cats_color.php:42
+#: widgets/cats_fancy.php:43 widgets/cats_flat.php:42
+#: widgets/cats_minimal.php:42 widgets/cats_modern.php:42
+#: widgets/main_hero1.php:147 widgets/search_modern2.php:34
+#: widgets/y_cats_1.php:50 widgets/y_cats_classic_2.php:39
+#: widgets/z_adforest_cats_services.php:41
+#: widgets/z_adforest_cats_sports.php:41
+#: widgets/z_ads_countries_listings.php:165 widgets/z_ads_with_sidebar.php:177
+#: widgets/z_browse_categories.php:132 widgets/z_browse_categories2.php:145
+msgid "Category Page"
+msgstr ""
+
+#: widgets/ads_countries.php:47 widgets/ads_countries2.php:48
+#: widgets/apps_modern.php:37 widgets/testimonial_modern.php:36
+#: widgets/y_cats_1.php:56 widgets/y_cats_classic_2.php:45
+#: widgets/y_shop_layout.php:35 widgets/z_adforest_ads_listing_services.php:36
+#: widgets/z_adforest_brands.php:36
+#: widgets/z_adforest_callto_action_service.php:35
+#: widgets/z_adforest_category_ads_slider.php:35
+#: widgets/z_adforest_cats_services.php:48
+#: widgets/z_ads_countries_listings.php:58 widgets/z_ads_tab_modern6.php:35
+#: widgets/z_ads_team_member.php:37 widgets/z_apps_call_to_action.php:35
+#: widgets/z_apps_screenshots_slider.php:35
+#: widgets/z_awesome_features_modern.php:35 widgets/z_call_to_action3.php:103
+#: widgets/z_call_to_action_techy.php:127 widgets/z_faqs_modern.php:35
+#: widgets/z_partners_modern.php:35 widgets/z_process_cycle_new4.php:37
+#: widgets/z_shop_layout2.php:37 widgets/z_testimonial_modern.php:35
+msgid "Background Color"
+msgstr ""
+
+#: widgets/ads_countries.php:50 widgets/ads_countries2.php:51
+#: widgets/apps_modern.php:40 widgets/testimonial_modern.php:38
+#: widgets/y_cats_1.php:59 widgets/y_cats_classic_2.php:48
+#: widgets/y_process_cycle3.php:39 widgets/y_products_new.php:38
+#: widgets/z_adforest_ads_listing_services.php:38
+#: widgets/z_adforest_brands.php:39
+#: widgets/z_adforest_callto_action_service.php:38
+#: widgets/z_adforest_category_ads_slider.php:38
+#: widgets/z_adforest_cats_services.php:51 widgets/z_testimonial_modern.php:37
+msgid "Select background color"
+msgstr ""
+
+#: widgets/ads_countries.php:65 widgets/ads_countries2.php:70
+#: widgets/blog.php:45
+msgid "New"
+msgstr ""
+
+#: widgets/ads_countries.php:94 widgets/ads_countries.php:98
+#: widgets/ads_slider_modern.php:81 widgets/blog.php:73 widgets/blog.php:76
+#: widgets/search_hero2.php:46
+msgid "Section tagline"
+msgstr ""
+
+#: widgets/ads_countries.php:158 widgets/ads_countries2.php:158
+#: widgets/search_hero2.php:149 widgets/search_modern.php:165
+#: widgets/y_search_hero4.php:125
+msgid "Locations"
+msgstr ""
+
+#: widgets/ads_countries.php:166 widgets/ads_countries.php:187
+#: widgets/ads_countries2.php:166 widgets/ads_countries2.php:187
+msgid "Select Locations"
+msgstr ""
+
+#: widgets/ads_countries.php:176 widgets/ads_countries2.php:176
+msgid "Location Background Image"
+msgstr ""
+
+#: widgets/ads_countries.php:178
+msgid "Recommended size 270x283"
+msgstr ""
+
+#: widgets/ads_countries2.php:15
+msgid "Custom Locations 2"
+msgstr ""
+
+#: widgets/ads_countries2.php:65 widgets/y_cats_classic_2.php:60
+#: widgets/y_process_cycle3.php:52 widgets/y_shop_layout.php:74
+#: widgets/y_shop_layout.php:207 widgets/z_adforest_ads_listing_services.php:50
+#: widgets/z_adforest_cats_services.php:38
+#: widgets/z_adforest_cats_sports.php:38 widgets/z_adforest_cats_sports.php:51
+msgid "Choose Header Style"
+msgstr ""
+
+#: widgets/ads_countries2.php:178
+msgid "Recommended size 250x160"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:15
+msgid "ADs - Google Map Modern"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:71
+msgid "Map"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:77
+msgid "Map Marker"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:79 widgets/ads_google_map_modern.php:90
+msgid "50x77"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:88
+msgid "Map Marker Many"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:98
+msgid "Latitude"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:105
+msgid "Longitude"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:113
+msgid "Map Zoom"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:123
+msgid "Map infobox address limit"
+msgstr ""
+
+#: widgets/ads_google_map_modern.php:126
+msgid "Characters limit should be integer value"
+msgstr ""
+
+#: widgets/ads_grid.php:15
+msgid "ADs Grid"
+msgstr ""
+
+#: widgets/ads_list.php:15
+msgid "ADs List"
+msgstr ""
+
+#: widgets/ads_slider_modern.php:15
+msgid "ADs - Slider"
+msgstr ""
+
+#: widgets/ads_slider_modern.php:53
+msgid "new"
+msgstr ""
+
+#: widgets/ads_slider_modern2.php:14
+msgid "ADs - Slider Box"
+msgstr ""
+
+#: widgets/ads_slider_modern3.php:14
+msgid "ADs Slider"
+msgstr ""
+
+#: widgets/ads_slider_modern3.php:109 widgets/z_ads_tab_modern6.php:57
+msgid "More ads Button Text"
+msgstr ""
+
+#: widgets/ads_slider_modern3.php:119
+#: widgets/z_adforest_ads_listing_services.php:124
+#: widgets/z_ads_tab_modern6.php:68
+msgid "More ads Button"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:12
+msgid "ads with sidebar"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:39
+msgid "Show Sidebar"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:43 widgets/search_modern.php:77
+msgid "Yes"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:44 widgets/search_modern.php:78
+msgid "No"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:72 widgets/feature_modern.php:59
+#: widgets/feature_modern_2.php:53 widgets/grid_modern.php:142
+msgid "Ads Section Description"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:106 widgets/feature_modern.php:98
+#: widgets/feature_modern_2.php:92 widgets/grid_modern.php:176
+msgid "Number fo Ads to display"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:124 widgets/feature_modern.php:116
+#: widgets/feature_modern_2.php:110 widgets/grid_modern.php:194
+msgid "View all button link"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:137
+#: widgets/z_adforest_category_ads_slider.php:161
+msgid "Banner"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:139
+msgid "870x330"
+msgstr ""
+
+#: widgets/ads_with_sidebar.php:146 widgets/cat_slider.php:37
+#: widgets/feature_modern.php:136 widgets/feature_modern_2.php:130
+#: widgets/grid_modern.php:86 widgets/grid_modern.php:214
+msgid "Select Category ( Selective )"
+msgstr ""
+
+#: widgets/advertisement_720_90.php:15 widgets/advertisement_720_90.php:133
+msgid "Advertisement"
+msgstr ""
+
+#: widgets/advertisement_720_90.php:140
+msgid "Banner Ad 720x90"
+msgstr ""
+
+#: widgets/apps_classic.php:15
+msgid "Apps - Classic"
+msgstr ""
+
+#: widgets/apps_classic.php:36
+msgid "Main Image"
+msgstr ""
+
+#: widgets/apps_classic.php:41
+msgid "400x500"
+msgstr ""
+
+#: widgets/apps_classic.php:66 widgets/product_bg.php:98
+msgid "Key Points"
+msgstr ""
+
+#: widgets/apps_classic.php:74 widgets/product_bg.php:108
+msgid "Point"
+msgstr ""
+
+#: widgets/apps_classic.php:76
+msgid "List Title"
+msgstr ""
+
+#: widgets/apps_classic.php:83
+msgid "Add Points"
+msgstr ""
+
+#: widgets/apps_classic.php:95 widgets/apps_simple.php:50
+msgid "Andriod"
+msgstr ""
+
+#: widgets/apps_classic.php:101 widgets/apps_classic.php:104
+#: widgets/apps_classic.php:134 widgets/apps_classic.php:137
+#: widgets/apps_simple.php:57 widgets/apps_simple.php:60
+#: widgets/apps_simple.php:92 widgets/apps_simple.php:95
+#: widgets/apps_simple.php:127 widgets/apps_simple.php:130
+msgid "Tag Line"
+msgstr ""
+
+#: widgets/apps_classic.php:117 widgets/apps_classic.php:120
+#: widgets/apps_classic.php:150 widgets/apps_classic.php:153
+#: widgets/apps_modern.php:74 widgets/apps_modern.php:96
+#: widgets/apps_simple.php:73 widgets/apps_simple.php:76
+#: widgets/apps_simple.php:108 widgets/apps_simple.php:111
+#: widgets/apps_simple.php:143 widgets/apps_simple.php:146
+msgid "Download Link"
+msgstr ""
+
+#: widgets/apps_classic.php:128 widgets/apps_modern.php:91
+#: widgets/apps_simple.php:85
+msgid "IOS"
+msgstr ""
+
+#: widgets/apps_modern.php:15
+msgid "Apps - Modern"
+msgstr ""
+
+#: widgets/apps_modern.php:49
+msgid "Tagline"
+msgstr ""
+
+#: widgets/apps_modern.php:69
+msgid "Android"
+msgstr ""
+
+#: widgets/apps_modern.php:80
+msgid "Android image"
+msgstr ""
+
+#: widgets/apps_modern.php:82 widgets/apps_modern.php:104
+msgid "170x56"
+msgstr ""
+
+#: widgets/apps_modern.php:102
+msgid "IOS image"
+msgstr ""
+
+#: widgets/apps_simple.php:15
+msgid "Apps - Simple"
+msgstr ""
+
+#: widgets/apps_simple.php:120
+msgid "Windows"
+msgstr ""
+
+#: widgets/blog.php:15
+msgid "Blog Posts"
+msgstr ""
+
+#: widgets/blog.php:44 widgets/z_shop_layout_book.php:77
+msgid "Fancy"
+msgstr ""
+
+#: widgets/blog.php:142
+msgid "Title limit"
+msgstr ""
+
+#: widgets/blog.php:153
+msgid "Number fo Posts"
+msgstr ""
+
+#: widgets/blog.php:155
+msgid "3"
+msgstr ""
+
+#: widgets/call_to_action.php:15
+msgid "Call to Action"
+msgstr ""
+
+#: widgets/call_to_action.php:30 widgets/sign_up.php:30
+#: widgets/z_ad_post_fancy.php:30
+msgid "General"
+msgstr ""
+
+#: widgets/call_to_action.php:41 widgets/search_hero2.php:37
+#: widgets/search_simple.php:38 widgets/y_clouds.php:39
+#: widgets/y_fun_facts2.php:37 widgets/y_search_hero3.php:38
+msgid "1280x800"
+msgstr ""
+
+#: widgets/call_to_action.php:67 widgets/process_cycle.php:93
+#: widgets/process_cycle.php:129 widgets/process_cycle.php:165
+#: widgets/process_cycle2.php:100 widgets/process_cycle2.php:133
+#: widgets/process_cycle2.php:164 widgets/testimonial_modern.php:103
+#: widgets/why_chose.php:151 widgets/y_process_cycle3.php:144
+#: widgets/y_process_cycle3.php:177 widgets/y_process_cycle3.php:209
+#: widgets/z_adforest_callto_action_service.php:62
+#: widgets/z_adforest_hero_book.php:50
+#: widgets/z_adforest_hero_decoration.php:50
+#: widgets/z_adforest_hero_sports.php:57 widgets/z_call_to_action_toy.php:44
+#: widgets/z_faqs_modern.php:107 widgets/z_process_cycle_new4.php:154
+#: widgets/z_process_cycle_new4.php:192 widgets/z_process_cycle_new4.php:231
+#: widgets/z_testimonial_modern.php:69
+msgid "Description"
+msgstr ""
+
+#: widgets/call_to_action.php:88 widgets/sign_up.php:65
+#: widgets/why_chose.php:171 widgets/z_adforest_hero_section_toy.php:157
+#: widgets/z_adforest_hero_sports.php:99 widgets/z_adforest_sales.php:166
+#: widgets/z_ads_tab_modern6.php:70 widgets/z_ads_with_sidebar.php:260
+#: widgets/z_apps_call_to_action.php:134 widgets/z_browse_categories2.php:125
+#: widgets/z_call_to_action3.php:80 widgets/z_call_to_action_techy.php:79
+#: widgets/z_call_to_action_techy.php:103 widgets/z_call_to_action_toy.php:66
+#: widgets/z_main_call_to_action.php:89 widgets/z_main_call_to_action.php:113
+#: widgets/z_main_call_to_action_modern.php:96
+#: widgets/z_main_call_to_action_modern.php:118
+#: widgets/z_main_call_to_action_modern2.php:89
+#: widgets/z_main_call_to_action_modern2.php:113 widgets/z_shop_layout3.php:190
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/cat_slider.php:15
+msgid "Cat Image slider"
+msgstr ""
+
+#: widgets/cat_slider.php:44 widgets/grid_modern.php:93
+#: widgets/search_modern2.php:101
+#: widgets/z_adforest_category_ads_slider.php:170
+#: widgets/z_adforest_hero_section_toy.php:50
+#: widgets/z_browse_categories.php:153 widgets/z_browse_categories2.php:203
+msgid "Category Image"
+msgstr ""
+
+#: widgets/cat_slider.php:46 widgets/grid_modern.php:95
+#: widgets/search_modern2.php:103
+msgid "100x100"
+msgstr ""
+
+#: widgets/cats_classic.php:15
+msgid "Categories - Classic"
+msgstr ""
+
+#: widgets/cats_classic.php:145 widgets/cats_color.php:49
+#: widgets/cats_fancy.php:145 widgets/cats_flat.php:144
+#: widgets/cats_modern.php:144 widgets/y_cats_classic_2.php:123
+msgid "Sub cats limit"
+msgstr ""
+
+#: widgets/cats_classic.php:184 widgets/cats_color.php:88
+#: widgets/cats_fancy.php:184 widgets/cats_flat.php:183
+#: widgets/cats_minimal.php:185 widgets/cats_modern.php:183
+#: widgets/popular_cats.php:98
+msgid "Add Category"
+msgstr ""
+
+#: widgets/cats_color.php:14
+msgid "Categories - Color"
+msgstr ""
+
+#: widgets/cats_fancy.php:15
+msgid "Categories - Fancy"
+msgstr ""
+
+#: widgets/cats_flat.php:14
+msgid "Categories - Flat"
+msgstr ""
+
+#: widgets/cats_minimal.php:14
+msgid "Categories - Minimal"
+msgstr ""
+
+#: widgets/cats_modern.php:14
+msgid "Categories - Modern"
+msgstr ""
+
+#: widgets/contact_us.php:15
+msgid "Contact Us"
+msgstr ""
+
+#: widgets/contact_us.php:30
+msgid "Basic Settings"
+msgstr ""
+
+#: widgets/contact_us.php:36 widgets/contact_us.php:39
+msgid "Contact Form Title"
+msgstr ""
+
+#: widgets/contact_us.php:45 widgets/contact_us.php:48
+msgid "Contact Info Title"
+msgstr ""
+
+#: widgets/contact_us.php:54
+msgid "Contact form 7 shortcode"
+msgstr ""
+
+#: widgets/contact_us.php:65 widgets/contact_us.php:71
+msgid "Address"
+msgstr ""
+
+#: widgets/contact_us.php:83 widgets/contact_us.php:89
+msgid "Phone"
+msgstr ""
+
+#: widgets/contact_us.php:101 widgets/contact_us.php:107
+msgid "Email"
+msgstr ""
+
+#: widgets/faq.php:15
+msgid "FAQ"
+msgstr ""
+
+#: widgets/faq.php:76
+msgid "Faq"
+msgstr ""
+
+#: widgets/faq.php:83 widgets/faq.php:86
+msgid "Question"
+msgstr ""
+
+#: widgets/faq.php:91
+msgid "Answer"
+msgstr ""
+
+#: widgets/faq.php:100
+msgid "Question & Answer"
+msgstr ""
+
+#: widgets/feature_modern.php:15
+msgid "Feature - Modern"
+msgstr ""
+
+#: widgets/feature_modern.php:129 widgets/feature_modern_2.php:123
+#: widgets/grid_modern.php:208
+msgid "Categories for ads"
+msgstr ""
+
+#: widgets/feature_modern_2.php:15
+msgid "Feature - Modern 2"
+msgstr ""
+
+#: widgets/fun_facts.php:15
+msgid "Fun Facts Counter"
+msgstr ""
+
+#: widgets/fun_facts.php:36 widgets/products_classic.php:141
+#: widgets/products_minimal.php:141 widgets/products_simple.php:141
+#: widgets/y_fun_facts2.php:45 widgets/y_shop_layout.php:158
+#: widgets/z_shop_layout2.php:170 widgets/z_shop_layout3.php:165
+#: widgets/z_shop_layout_book.php:229 widgets/z_shop_layout_book_2.php:166
+msgid "Column"
+msgstr ""
+
+#: widgets/fun_facts.php:39 widgets/y_fun_facts2.php:48
+#: widgets/z_shop_layout2.php:174 widgets/z_shop_layout_book.php:233
+#: widgets/z_shop_layout_book_2.php:170
+msgid "Select Col"
+msgstr ""
+
+#: widgets/fun_facts.php:41 widgets/products_classic.php:146
+#: widgets/products_minimal.php:146 widgets/products_simple.php:146
+#: widgets/y_fun_facts2.php:50 widgets/y_shop_layout.php:163
+#: widgets/z_shop_layout2.php:175 widgets/z_shop_layout3.php:170
+#: widgets/z_shop_layout_book.php:234 widgets/z_shop_layout_book_2.php:171
+msgid "3 Col"
+msgstr ""
+
+#: widgets/fun_facts.php:42 widgets/products_classic.php:147
+#: widgets/products_minimal.php:147 widgets/products_simple.php:147
+#: widgets/y_fun_facts2.php:51 widgets/y_shop_layout.php:164
+#: widgets/z_shop_layout2.php:176 widgets/z_shop_layout3.php:171
+#: widgets/z_shop_layout_book.php:235 widgets/z_shop_layout_book_2.php:172
+msgid "4 Col"
+msgstr ""
+
+#: widgets/fun_facts.php:49 widgets/fun_facts.php:83
+#: widgets/y_fun_facts2.php:58 widgets/y_fun_facts2.php:92
+msgid "Fun Facts"
+msgstr ""
+
+#: widgets/fun_facts.php:65 widgets/y_fun_facts2.php:74
+msgid "Numbers"
+msgstr ""
+
+#: widgets/fun_facts.php:77 widgets/y_fun_facts2.php:86
+msgid "Color Title"
+msgstr ""
+
+#: widgets/grid_modern.php:15
+msgid "Cats , ads , sidebar"
+msgstr ""
+
+#: widgets/grid_modern.php:57
+msgid "Show Category"
+msgstr ""
+
+#: widgets/grid_modern.php:62
+msgid "hide"
+msgstr ""
+
+#: widgets/grid_modern.php:68
+msgid "Category Section Title"
+msgstr ""
+
+#: widgets/main_hero1.php:15
+msgid "Main Hero 1"
+msgstr ""
+
+#: widgets/main_hero1.php:54 widgets/z_adforest_search_services.php:116
+msgid "Search Settings"
+msgstr ""
+
+#: widgets/main_hero1.php:60 widgets/z_adforest_search_services.php:137
+msgid "Search Keyword Label"
+msgstr ""
+
+#: widgets/main_hero1.php:67 widgets/main_hero1.php:69
+msgid "Search Keyword Placeholder"
+msgstr ""
+
+#: widgets/main_hero1.php:70
+msgid "What are you looking for....."
+msgstr ""
+
+#: widgets/main_hero1.php:75 widgets/z_adforest_search_services.php:145
+msgid "Search Location Label"
+msgstr ""
+
+#: widgets/main_hero1.php:77
+msgid "Search Locaton"
+msgstr ""
+
+#: widgets/main_hero1.php:82
+msgid "Search Location placeholder"
+msgstr ""
+
+#: widgets/main_hero1.php:84
+msgid "Locaton"
+msgstr ""
+
+#: widgets/main_hero1.php:90 widgets/vendor_hero_slider.php:39
+msgid "Signature Image"
+msgstr ""
+
+#: widgets/main_hero1.php:98 widgets/z_adforest_search_services.php:166
+#: widgets/z_main_call_to_action_modern.php:169
+#: widgets/z_main_call_to_action_modern.php:192
+msgid "Custom Locations"
+msgstr ""
+
+#: widgets/main_hero1.php:103 widgets/search_hero2.php:92
+#: widgets/search_modern.php:154 widgets/y_search_hero3.php:83
+#: widgets/y_search_hero4.php:67 widgets/z_adforest_search_services.php:123
+#: widgets/z_main_call_to_action_modern.php:176
+msgid "Location type"
+msgstr ""
+
+#: widgets/main_hero1.php:105 widgets/z_adforest_search_services.php:39
+#: widgets/z_adforest_search_services.php:125
+#: widgets/z_adforest_services.php:39 widgets/z_adforest_shop_services.php:40
+#: widgets/z_adforest_shop_services.php:158
+#: widgets/z_ads_countries_listings.php:75 widgets/z_ads_team_member.php:52
+#: widgets/z_apps_screenshots_slider.php:70
+#: widgets/z_awesome_features_modern.php:71 widgets/z_partners_modern.php:61
+#: widgets/z_process_cycle_new4.php:52 widgets/z_shop_layout2.php:73
+msgid "Chose header style."
+msgstr ""
+
+#: widgets/main_hero1.php:107 widgets/search_hero2.php:96
+#: widgets/search_modern.php:157 widgets/y_search_hero3.php:87
+#: widgets/y_search_hero4.php:71 widgets/z_adforest_search_services.php:127
+#: widgets/z_main_call_to_action_modern.php:182
+msgid "Google"
+msgstr ""
+
+#: widgets/main_hero1.php:108 widgets/search_hero2.php:97
+#: widgets/search_hero2.php:144 widgets/search_modern.php:158
+#: widgets/y_search_hero3.php:88 widgets/y_search_hero3.php:133
+#: widgets/y_search_hero4.php:72 widgets/y_search_hero4.php:120
+#: widgets/z_adforest_search_services.php:128
+#: widgets/z_main_call_to_action_modern.php:183
+msgid "Custom Location"
+msgstr ""
+
+#: widgets/main_hero1.php:115 widgets/y_search_hero3.php:139
+#: widgets/z_adforest_search_services.php:172
+msgid "Location"
+msgstr ""
+
+#: widgets/main_hero1.php:136
+msgid "Category slider"
+msgstr ""
+
+#: widgets/partners.php:15 widgets/z_partners_modern.php:138
+msgid "Clients or Partners"
+msgstr ""
+
+#: widgets/partners.php:58 widgets/partners_classic.php:149
+#: widgets/partners_grid.php:147 widgets/partners_slider.php:64
+#: widgets/z_partners_modern.php:157
+msgid "Logo"
+msgstr ""
+
+#: widgets/partners.php:60 widgets/partners_classic.php:151
+#: widgets/partners_grid.php:149
+msgid "320x150"
+msgstr ""
+
+#: widgets/partners_classic.php:14
+msgid "Clients or Partners - Classic"
+msgstr ""
+
+#: widgets/partners_grid.php:14
+msgid "Clients or Partners - Grid"
+msgstr ""
+
+#: widgets/partners_slider.php:15
+msgid "Clients or Partners - Modern"
+msgstr ""
+
+#: widgets/partners_slider.php:66
+msgid "135x35"
+msgstr ""
+
+#: widgets/popular_cats.php:15
+msgid "Popular - Categories"
+msgstr ""
+
+#: widgets/process_cycle.php:15
+msgid "Process Cycle"
+msgstr ""
+
+#: widgets/process_cycle.php:68 widgets/process_cycle2.php:77
+#: widgets/y_process_cycle3.php:120 widgets/z_process_cycle_new4.php:129
+msgid "Step 1"
+msgstr ""
+
+#: widgets/process_cycle.php:104 widgets/process_cycle2.php:111
+#: widgets/y_process_cycle3.php:153 widgets/z_process_cycle_new4.php:167
+msgid "Step 2"
+msgstr ""
+
+#: widgets/process_cycle.php:140 widgets/process_cycle2.php:143
+#: widgets/y_process_cycle3.php:185 widgets/z_process_cycle_new4.php:206
+msgid "Step 3"
+msgstr ""
+
+#: widgets/process_cycle2.php:15
+msgid "Process Cycle 2"
+msgstr ""
+
+#: widgets/process_cycle2.php:82 widgets/process_cycle2.php:116
+#: widgets/process_cycle2.php:148
+msgid "Icon / put flaticon"
+msgstr ""
+
+#: widgets/product_bg.php:15
+msgid "Product with Bg"
+msgstr ""
+
+#: widgets/product_bg.php:53 widgets/product_bg.php:56 widgets/sign_in.php:96
+#: widgets/sign_up.php:133 widgets/vendor_hero_slider.php:71
+#: widgets/z_adforest_hero_sports.php:85 widgets/z_call_to_action_toy.php:54
+msgid "Button Title"
+msgstr ""
+
+#: widgets/product_bg.php:62 widgets/search_hero2.php:79
+#: widgets/sign_in.php:104 widgets/sign_up.php:141
+#: widgets/vendor_hero_slider.php:78 widgets/z_adforest_hero_book.php:75
+#: widgets/z_adforest_hero_sports.php:97 widgets/z_apps_call_to_action.php:132
+#: widgets/z_call_to_action_toy.php:64
+msgid "Button Link"
+msgstr ""
+
+#: widgets/product_bg.php:78 widgets/products_classic.php:157
+#: widgets/products_minimal.php:157 widgets/products_modern.php:83
+#: widgets/products_simple.php:157 widgets/y_products_new.php:118
+#: widgets/y_shop_layout.php:197 widgets/z_shop_layout2.php:216
+#: widgets/z_shop_layout3.php:208 widgets/z_shop_layout_book.php:246
+#: widgets/z_shop_layout_book_2.php:186
+msgid "Products"
+msgstr ""
+
+#: widgets/product_bg.php:84
+msgid "Select Product (max 2)"
+msgstr ""
+
+#: widgets/product_bg.php:116
+msgid "Add Point"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:15
+msgid "Products Category Tabs"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:48
+msgid "Banner  Image"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:53
+msgid "285x395"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:58
+msgid "Banner position"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:61 widgets/z_ads_with_sidebar.php:87
+#: widgets/z_call_to_action3.php:121 widgets/z_call_to_action_techy.php:145
+msgid "Left"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:62 widgets/z_ads_with_sidebar.php:88
+#: widgets/z_call_to_action3.php:122 widgets/z_call_to_action_techy.php:146
+msgid "Right"
+msgstr ""
+
+#: widgets/product_cat_tabs.php:70 widgets/product_cat_tabs_2.php:48
+#: widgets/y_shop_layout.php:147 widgets/z_adforest_shop_services.php:123
+#: widgets/z_shop_layout2.php:158 widgets/z_shop_layout3.php:154
+#: widgets/z_shop_layout_book.php:219 widgets/z_shop_layout_book_2.php:154
+msgid "Select Number of Product"
+msgstr ""
+
+#: widgets/product_cat_tabs_2.php:15
+msgid "Products Category Tabs Full"
+msgstr ""
+
+#: widgets/products_classic.php:14
+msgid "Products - Classic"
+msgstr ""
+
+#: widgets/products_classic.php:135 widgets/products_minimal.php:135
+#: widgets/products_simple.php:135 widgets/y_shop_layout.php:141
+#: widgets/z_shop_layout3.php:147 widgets/z_shop_layout_book.php:212
+#: widgets/z_shop_layout_book_2.php:147
+msgid "Products Setting"
+msgstr ""
+
+#: widgets/products_minimal.php:14
+msgid "Products - Minimal"
+msgstr ""
+
+#: widgets/products_modern.php:15
+msgid "Products - Modern"
+msgstr ""
+
+#: widgets/products_modern.php:89
+msgid "Select Packages"
+msgstr ""
+
+#: widgets/products_simple.php:14
+msgid "Products - Simple"
+msgstr ""
+
+#: widgets/search_fancy.php:15
+msgid "Search - Fancy"
+msgstr ""
+
+#: widgets/search_fancy.php:49 widgets/search_hero2.php:48
+#: widgets/search_modern.php:50 widgets/search_simple.php:50
+#: widgets/search_stylish.php:39 widgets/video_hero.php:39
+#: widgets/y_search_hero3.php:48 widgets/y_search_hero4.php:48
+msgid "for total ads"
+msgstr ""
+
+#: widgets/search_fancy.php:57
+msgid "Slider"
+msgstr ""
+
+#: widgets/search_fancy.php:66 widgets/z_adforest_hero_section_toy.php:108
+msgid "Slider Image"
+msgstr ""
+
+#: widgets/search_fancy.php:68
+msgid "1280x600"
+msgstr ""
+
+#: widgets/search_fancy.php:77
+msgid "Add Slider Image"
+msgstr ""
+
+#: widgets/search_fancy.php:95 widgets/search_modern.php:114
+#: widgets/search_stylish.php:74
+msgid "Category ( ajax based )"
+msgstr ""
+
+#: widgets/search_fancy.php:98 widgets/search_hero2.php:115
+#: widgets/search_modern.php:117 widgets/search_modern2.php:58
+#: widgets/search_stylish.php:77 widgets/y_search_hero3.php:106
+#: widgets/y_search_hero4.php:91 widgets/z_adforest_hero_realestate.php:133
+#: widgets/z_apps_screenshots_slider.php:39
+#: widgets/z_browse_categories2.php:159
+msgid "Default"
+msgstr ""
+
+#: widgets/search_fancy.php:99 widgets/search_modern.php:118
+#: widgets/search_stylish.php:78
+msgid "Ajax Based ( Load All )"
+msgstr ""
+
+#: widgets/search_hero2.php:15
+msgid "Search - Hero"
+msgstr ""
+
+#: widgets/search_hero2.php:59
+msgid "Section title"
+msgstr ""
+
+#: widgets/search_hero2.php:65
+msgid "Search Block Title"
+msgstr ""
+
+#: widgets/search_hero2.php:72 widgets/y_search_hero3.php:59
+#: widgets/z_adforest_ads_listing_services.php:117
+#: widgets/z_adforest_brands.php:103 widgets/z_adforest_brands.php:162
+msgid "Button Text"
+msgstr ""
+
+#: widgets/search_hero2.php:87 widgets/y_search_hero3.php:78
+#: widgets/y_search_hero4.php:62
+msgid "Location Type"
+msgstr ""
+
+#: widgets/search_hero2.php:110 widgets/y_search_hero3.php:101
+#: widgets/y_search_hero4.php:86
+msgid "Categories Load on frontend )"
+msgstr ""
+
+#: widgets/search_hero2.php:112 widgets/y_search_hero3.php:103
+#: widgets/y_search_hero4.php:88
+msgid "Please choose categories load type on frontend for this element"
+msgstr ""
+
+#: widgets/search_hero2.php:116 widgets/search_modern2.php:59
+#: widgets/y_search_hero3.php:107 widgets/y_search_hero4.php:92
+#: widgets/z_adforest_hero_realestate.php:134
+msgid "Ajax Based(Load All)"
+msgstr ""
+
+#: widgets/search_hero2.php:122 widgets/search_modern2.php:66
+#: widgets/y_search_hero3.php:113 widgets/y_search_hero4.php:98
+#: widgets/z_browse_categories.php:164 widgets/z_browse_categories2.php:235
+#: widgets/z_main_call_to_action_modern.php:154
+msgid "Select Category ( All or Selective )"
+msgstr ""
+
+#: widgets/search_modern.php:15
+msgid "Search - Modern"
+msgstr ""
+
+#: widgets/search_modern.php:56 widgets/search_modern.php:59
+msgid "Search Place holder"
+msgstr ""
+
+#: widgets/search_modern.php:65 widgets/search_modern.php:68
+msgid "Location Place holder"
+msgstr ""
+
+#: widgets/search_modern.php:74
+msgid "Display tags ?"
+msgstr ""
+
+#: widgets/search_modern.php:85
+msgid "Max number of tags"
+msgstr ""
+
+#: widgets/search_modern.php:148
+msgid "Custom Loctions"
+msgstr ""
+
+#: widgets/search_modern2.php:13
+msgid "Search - Modern with cats"
+msgstr ""
+
+#: widgets/search_modern2.php:43
+#, php-format
+msgid "For bold the text;<strong>Your text</strong> and %count% for total ads."
+msgstr ""
+
+#: widgets/search_modern2.php:49 widgets/z_adforest_hero_realestate.php:124
+msgid "Dropdown Categories"
+msgstr ""
+
+#: widgets/search_modern2.php:54 widgets/z_adforest_hero_realestate.php:130
+#: widgets/z_adforest_locations_slider.php:129
+#: widgets/z_ads_with_sidebar.php:192 widgets/z_browse_categories.php:128
+#: widgets/z_browse_categories.php:145 widgets/z_browse_categories2.php:141
+#: widgets/z_browse_categories2.php:185
+msgid "Categories Load on frontend"
+msgstr ""
+
+#: widgets/search_simple.php:15
+msgid "Search - Simple"
+msgstr ""
+
+#: widgets/search_stylish.php:15
+msgid "Search - Stylish"
+msgstr ""
+
+#: widgets/search_stylish.php:47 widgets/search_stylish.php:50
+msgid "Minimum Price"
+msgstr ""
+
+#: widgets/search_stylish.php:57 widgets/search_stylish.php:60
+msgid "Maximum Price"
+msgstr ""
+
+#: widgets/sign_in.php:15
+msgid "Sign In"
+msgstr ""
+
+#: widgets/sign_in.php:30
+msgid "Form Setting"
+msgstr ""
+
+#: widgets/sign_in.php:45 widgets/sign_in.php:72 widgets/sign_up.php:45
+#: widgets/sign_up.php:110
+msgid "Short Description"
+msgstr ""
+
+#: widgets/sign_in.php:55 widgets/sign_up.php:93
+msgid "Other section settings"
+msgstr ""
+
+#: widgets/sign_in.php:82 widgets/sign_up.php:120 widgets/y_cats_1.php:35
+#: widgets/z_adforest_hero_realestate.php:99
+#: widgets/z_call_to_action_techy.php:173
+#: widgets/z_call_to_action_techy.php:185 widgets/z_main_call_to_action.php:151
+msgid "Section Image"
+msgstr ""
+
+#: widgets/sign_in.php:93 widgets/sign_up.php:130
+msgid "Button  Title"
+msgstr ""
+
+#: widgets/sign_in.php:101 widgets/sign_up.php:138
+msgid "Button link"
+msgstr ""
+
+#: widgets/sign_up.php:15
+msgid "Sign Up"
+msgstr ""
+
+#: widgets/sign_up.php:63 widgets/z_ad_post_fancy.php:78
+msgid "Terms & Conditions"
+msgstr ""
+
+#: widgets/sign_up.php:77
+msgid "Capcha Code"
+msgstr ""
+
+#: widgets/sign_up.php:79
+msgid "Captcha is for stop spamming"
+msgstr ""
+
+#: widgets/sign_up.php:81
+msgid "Please select"
+msgstr ""
+
+#: widgets/sign_up.php:82
+msgid "With Capcha"
+msgstr ""
+
+#: widgets/sign_up.php:83
+msgid "Without Capcha"
+msgstr ""
+
+#: widgets/testimonial_modern.php:15
+msgid "Testimonials - Modern"
+msgstr ""
+
+#: widgets/testimonial_modern.php:77
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonial_modern.php:94 widgets/testimonial_modern.php:97
+msgid "Designation"
+msgstr ""
+
+#: widgets/testimonial_modern.php:113 widgets/z_testimonial_modern.php:79
+msgid "Select Stars"
+msgstr ""
+
+#: widgets/testimonial_modern.php:123 widgets/z_apps_call_to_action.php:75
+#: widgets/z_faqs_modern.php:75 widgets/z_main_call_to_action_modern2.php:150
+#: widgets/z_partners_modern.php:47 widgets/z_testimonial_modern.php:89
+msgid "Side Image"
+msgstr ""
+
+#: widgets/testimonial_modern.php:128
+msgid "78 by 78"
+msgstr ""
+
+#: widgets/testimonial_modern.php:134
+msgid "Add testimonial."
+msgstr ""
+
+#: widgets/vendor_banners.php:18
+msgid "Adforest - Vendor Banners"
+msgstr ""
+
+#: widgets/vendor_banners.php:42
+msgid "Left Coloumn"
+msgstr ""
+
+#: widgets/vendor_banners.php:46 widgets/vendor_banners.php:70
+msgid "Col 3"
+msgstr ""
+
+#: widgets/vendor_banners.php:47 widgets/vendor_banners.php:71
+msgid "col 6"
+msgstr ""
+
+#: widgets/vendor_banners.php:48 widgets/vendor_banners.php:72
+msgid "col 9"
+msgstr ""
+
+#: widgets/vendor_banners.php:55
+msgid "Banner Image Left"
+msgstr ""
+
+#: widgets/vendor_banners.php:60 widgets/vendor_banners.php:84
+msgid "312x422"
+msgstr ""
+
+#: widgets/vendor_banners.php:66
+msgid "Right Column"
+msgstr ""
+
+#: widgets/vendor_banners.php:79
+msgid "Banner Image Right"
+msgstr ""
+
+#: widgets/vendor_grid.php:15
+msgid "Adforest - Vendor Grid"
+msgstr ""
+
+#: widgets/vendor_grid.php:57
+msgid "Vendor Setting"
+msgstr ""
+
+#: widgets/vendor_grid.php:72
+msgid "Number fo Vendors"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:15
+msgid "Adforest - Vendor Hero"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:32 widgets/z_adforest_slider.php:29
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:44
+msgid "322 X 56"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:50
+msgid "Product Title"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:57
+msgid "Product Reguler price"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:64
+msgid "Product Sale Price"
+msgstr ""
+
+#: widgets/vendor_hero_slider.php:92 widgets/y_shop_layout.php:204
+#: widgets/y_shop_layout.php:218 widgets/z_adforest_shop_services.php:144
+msgid "Select Products"
+msgstr ""
+
+#: widgets/vendor_services.php:15
+msgid "Adforest - Vendor Services"
+msgstr ""
+
+#: widgets/vendor_services.php:32
+msgid "Services"
+msgstr ""
+
+#: widgets/vendor_services.php:39 widgets/z_ads_with_sidebar.php:210
+#: widgets/z_browse_categories2.php:223
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/vendor_services.php:44
+msgid "40x40"
+msgstr ""
+
+#: widgets/vendor_services.php:64
+msgid "Banner Left and Right Image"
+msgstr ""
+
+#: widgets/video_hero.php:15
+msgid "Search - with bg-video"
+msgstr ""
+
+#: widgets/why_chose.php:15
+msgid "Why Us"
+msgstr ""
+
+#: widgets/why_chose.php:135
+msgid "Facts"
+msgstr ""
+
+#: widgets/why_chose.php:169
+msgid "Link"
+msgstr ""
+
+#: widgets/why_chose.php:183
+msgid "Add Facts"
+msgstr ""
+
+#: widgets/y_cats_1.php:15
+msgid "Categories - 1"
+msgstr ""
+
+#: widgets/y_cats_1.php:37
+msgid "1920x474"
+msgstr ""
+
+#: widgets/y_cats_classic_2.php:15
+msgid "Categories - Classic 2"
+msgstr ""
+
+#: widgets/y_clouds.php:15
+msgid "Hero - Clouds"
+msgstr ""
+
+#: widgets/y_clouds.php:50
+msgid "For bold the text"
+msgstr ""
+
+#: widgets/y_clouds.php:51
+#, php-format
+msgid "<strong>Your text</strong> and %count% for total ads."
+msgstr ""
+
+#: widgets/y_clouds.php:57
+msgid "Search Button Text"
+msgstr ""
+
+#: widgets/y_clouds.php:64
+msgid "Ad post Button Text"
+msgstr ""
+
+#: widgets/y_fun_facts2.php:14
+msgid "Fun Facts 2"
+msgstr ""
+
+#: widgets/y_process_cycle3.php:15
+msgid "Process Cycle 3"
+msgstr ""
+
+#: widgets/y_process_cycle3.php:36 widgets/y_products_new.php:35
+#: widgets/y_shop_layout.php:38
+msgid "Select Background Color"
+msgstr ""
+
+#: widgets/y_products_new.php:15
+msgid "Products - Modern 2"
+msgstr ""
+
+#: widgets/y_products_new.php:81
+msgid "Type your description here"
+msgstr ""
+
+#: widgets/y_products_new.php:124 widgets/y_products_new.php:127
+#: widgets/y_shop_layout.php:221
+msgid "Select Product"
+msgstr ""
+
+#: widgets/y_search_hero3.php:15
+msgid "Search - Hero 3"
+msgstr ""
+
+#: widgets/y_search_hero3.php:53 widgets/y_search_hero4.php:53
+#: widgets/z_awesome_features_modern.php:156
+msgid "Main Title"
+msgstr ""
+
+#: widgets/y_search_hero3.php:65 widgets/z_main_call_to_action_modern.php:75
+#: widgets/z_main_call_to_action_modern2.php:65
+msgid "Search Block Text"
+msgstr ""
+
+#: widgets/y_search_hero4.php:15
+msgid "Search - Hero 4"
+msgstr ""
+
+#: widgets/y_search_hero4.php:38
+msgid "1920x750"
+msgstr ""
+
+#: widgets/y_shop_layout.php:14 widgets/z_shop_layout2.php:14
+msgid "Shop Layout - Modern"
+msgstr ""
+
+#: widgets/y_shop_layout.php:161
+msgid "Select Column"
+msgstr ""
+
+#: widgets/y_shop_layout.php:165 widgets/z_shop_layout2.php:177
+#: widgets/z_shop_layout3.php:172 widgets/z_shop_layout_book.php:236
+#: widgets/z_shop_layout_book_2.php:173
+msgid "6 Col"
+msgstr ""
+
+#: widgets/y_shop_layout.php:182 widgets/z_shop_layout2.php:187
+#: widgets/z_shop_layout2.php:198 widgets/z_shop_layout3.php:188
+#: widgets/z_shop_layout_book.php:162
+msgid "View All Link"
+msgstr ""
+
+#: widgets/y_shop_layout.php:184
+msgid "Read more Link if any"
+msgstr ""
+
+#: widgets/y_shop_layout.php:210 widgets/z_adforest_shop_services.php:148
+#: widgets/z_shop_layout2.php:228 widgets/z_shop_layout3.php:218
+#: widgets/z_shop_layout_book.php:255 widgets/z_shop_layout_book_2.php:196
+msgid "All Categories"
+msgstr ""
+
+#: widgets/y_shop_layout.php:211 widgets/z_adforest_shop_services.php:149
+#: widgets/z_shop_layout2.php:229 widgets/z_shop_layout3.php:219
+#: widgets/z_shop_layout_book.php:256 widgets/z_shop_layout_book_2.php:197
+msgid "Selective Categories"
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:15
+msgid "Ad Post - Fancy"
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:50
+msgid ""
+"Select the ad post form type default or with dynamic categories based. Extra "
+"fields will only works with default form."
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:102
+msgid "Extra Fields Section Title"
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:111
+msgid "Extra Fields"
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:121 widgets/z_ad_post_fancy.php:167
+msgid "Add field"
+msgstr ""
+
+#: widgets/z_ad_post_fancy.php:136
+msgid "Type"
+msgstr ""
+
+#: widgets/z_adforest_ads_listing_services.php:15
+msgid "ADs Listing - Service"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:15
+msgid "Adforest Brands"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:56
+msgid "Ads Head Title"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:110
+msgid "More ads Link"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:123
+msgid "Banner Settings"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:129
+#: widgets/z_adforest_category_ads_slider.php:112
+#: widgets/z_adforest_category_ads_slider.php:217
+msgid "Banner Code"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:131
+#: widgets/z_adforest_category_ads_slider.php:114
+msgid "Recommended banner size (750x56)"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:137
+#: widgets/z_adforest_category_ads_slider.php:101
+msgid "Banner Place"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:140
+#: widgets/z_adforest_category_ads_slider.php:104
+#: widgets/z_adforest_category_ads_slider.php:142
+#: widgets/z_adforest_category_ads_slider.php:160
+msgid "None"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:141
+#: widgets/z_adforest_category_ads_slider.php:105
+msgid "Top"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:142
+#: widgets/z_adforest_category_ads_slider.php:106
+msgid "Bottom"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:149
+msgid "Brand Settings"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:155
+msgid "Brand Head Title"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:169
+msgid "View All Brands Link"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:182
+msgid "All Brands Link Text"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:190
+msgid "Brand Image"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:192
+msgid "Add an image of brand: Recommended size (150 X 110)"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:201
+msgid "Image Link"
+msgstr ""
+
+#: widgets/z_adforest_brands.php:208
+msgid "Add Image"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:14
+msgid "Call To Action - Service"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:48
+#: widgets/z_adforest_hero_realestate.php:110
+msgid "Heading"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:55
+msgid "Subheading"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:69
+msgid "Button1 Text"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:76
+msgid "Button 1"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:89
+msgid "Button2 Text"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:96
+msgid "Button 2"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:109
+msgid "Call to Action Image"
+msgstr ""
+
+#: widgets/z_adforest_callto_action_service.php:111
+msgid "Recommended size (555 X 370)"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:15
+msgid "Adforest Category Ads Slider"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:30
+msgid "Slider Ads Settings"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:86
+msgid "Slider Category Title"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:88
+#: widgets/z_ads_with_sidebar.php:39 widgets/z_call_to_action3.php:49
+#: widgets/z_call_to_action_techy.php:49 widgets/z_main_call_to_action.php:58
+#: widgets/z_main_call_to_action_modern.php:59
+#: widgets/z_main_call_to_action_modern2.php:49
+msgid "For color"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:88
+#: widgets/z_ads_with_sidebar.php:39 widgets/z_call_to_action3.php:49
+#: widgets/z_call_to_action_techy.php:49 widgets/z_main_call_to_action.php:58
+#: widgets/z_main_call_to_action_modern.php:59
+#: widgets/z_main_call_to_action_modern2.php:49
+msgid "warp text within this tag"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:132
+msgid "Sidebar Settings"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:139
+msgid "Sidebar Place"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:143
+msgid "Right Side"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:144
+msgid "Left Side"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:157
+#: widgets/z_ads_with_sidebar.php:156
+msgid "Sidebar"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:162
+msgid "Ads"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:172
+msgid "Add an image of Category : Recommended size (30 X 30)"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:219
+msgid "Recommended size (370 X 500)"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:237
+#: widgets/z_adforest_hero_realestate.php:36
+msgid "Ads Title"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:312
+msgid "Number of Ads for each category slider type"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:336
+msgid "More Button Title"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:355
+msgid "More Button Link"
+msgstr ""
+
+#: widgets/z_adforest_category_ads_slider.php:382
+msgid "Add Sidebar Items"
+msgstr ""
+
+#: widgets/z_adforest_cats_services.php:15
+msgid "Categories - Srevices"
+msgstr ""
+
+#: widgets/z_adforest_cats_services.php:85
+msgid "Categories_section"
+msgstr ""
+
+#: widgets/z_adforest_cats_services.php:102
+msgid "Category Image : Recommended size (40x46)\""
+msgstr ""
+
+#: widgets/z_adforest_cats_services.php:104
+msgid "94x90"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:15
+msgid "Categories - Sports"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:118
+msgid "Layout"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:124
+msgid "Column Style"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:126
+msgid "Choose Categories style."
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:128
+msgid "4 Column"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:129
+msgid "6 Column"
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:153
+msgid "Category Image : Recommended size (45 X 45)\""
+msgstr ""
+
+#: widgets/z_adforest_cats_sports.php:155
+msgid "45 X 45"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:15
+msgid "Adforest Contact Info"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:36
+msgid "Info Title"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:38
+msgid "Enter contact information title here ."
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:44
+msgid "Info Description"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:46
+msgid "Enter contact information description here ."
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:53
+msgid "Information"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:60
+msgid "Contact Image"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:62
+msgid "Add an image of contact : Recommended size (64x64)"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:71
+msgid "Contact Title"
+msgstr ""
+
+#: widgets/z_adforest_contact_info.php:78
+msgid "Contact Detail"
+msgstr ""
+
+#: widgets/z_adforest_hero_book.php:15
+msgid "Hero - Book Banner"
+msgstr ""
+
+#: widgets/z_adforest_hero_book.php:36
+#: widgets/z_adforest_hero_decoration.php:36
+#: widgets/z_adforest_hero_sports.php:35
+msgid "Heading 1"
+msgstr ""
+
+#: widgets/z_adforest_hero_book.php:43
+#: widgets/z_adforest_hero_decoration.php:43
+#: widgets/z_adforest_hero_sports.php:46
+msgid "Heading 2"
+msgstr ""
+
+#: widgets/z_adforest_hero_book.php:59
+msgid "Add an image of background : Recommended size (1920x946)"
+msgstr ""
+
+#: widgets/z_adforest_hero_book.php:68
+msgid "Enter Button Text"
+msgstr ""
+
+#: widgets/z_adforest_hero_decoration.php:15
+msgid "Hero - Decoration Banner"
+msgstr ""
+
+#: widgets/z_adforest_hero_decoration.php:60
+msgid "Add an image of background : Recommended size (1920x700)"
+msgstr ""
+
+#: widgets/z_adforest_hero_decoration.php:88
+msgid "Category Image : Recommended size (32 X 32)"
+msgstr ""
+
+#: widgets/z_adforest_hero_decoration.php:90
+msgid "32 X 32"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:15
+msgid "Adforest Hero - Realestate"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:38
+msgid ""
+"Add the title of ads that dispaly at the top of the sidebar ads listings"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:82
+msgid "Banner Setting"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:88
+msgid "Section Background Image"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:90
+msgid "2020x899"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:101
+msgid "536x703"
+msgstr ""
+
+#: widgets/z_adforest_hero_realestate.php:117
+msgid "Sub Heading"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:14
+msgid "Hero Section - Toys Banner Slider"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:29
+msgid "Categories Settings"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:36
+msgid "Categories Title"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:52
+msgid "Add an image of Category : Recommended size (53 X 43)"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:87 widgets/z_adforest_slider.php:71
+msgid "Add Slides"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:97
+msgid "Slider Logo Image"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:99
+msgid "Add an image of Slider : Recommended size (175 X 66)"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:110
+msgid "Add an image of Slider : Recommended size (346 X 496)"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:131 widgets/z_adforest_slider.php:58
+msgid "Slider Description"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:143
+msgid "Slider button Title"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:155
+msgid "Slider Button"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:170
+msgid "Add Slides)"
+msgstr ""
+
+#: widgets/z_adforest_hero_section_toy.php:172
+#: widgets/z_adforest_locations_slider.php:182
+#: widgets/z_ads_countries_listings.php:215 widgets/z_ads_with_sidebar.php:226
+#: widgets/z_ads_with_sidebar.php:277 widgets/z_browse_categories.php:166
+#: widgets/z_browse_categories2.php:237
+msgid "Category: Beagle (beagle)"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:14
+msgid "Hero - Services Banner"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:37
+msgid "Banner Title"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:48
+msgid "Banner Description"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:50
+msgid "Enter banner description here ."
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:62
+msgid "Banner Background Image"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:64
+msgid "Add an image of banner background : Recommended size (1920x850)"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:74
+msgid "Banner Image"
+msgstr ""
+
+#: widgets/z_adforest_hero_services.php:76
+msgid ""
+"Add an image of banner that will apply at the bottom of banner descrpition.: "
+"Recommended size (1079x187)"
+msgstr ""
+
+#: widgets/z_adforest_hero_sports.php:14
+msgid "Hero - Sports Banner"
+msgstr ""
+
+#: widgets/z_adforest_hero_sports.php:59
+msgid "Enter banner description here"
+msgstr ""
+
+#: widgets/z_adforest_hero_sports.php:73
+msgid "Add an image of  background : Recommended size (1920x946)"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:14
+msgid "Adforest Locations Slider"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:38
+msgid ""
+"Add an image of locations background. Note : Recommended size (1920 X 965)"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:49
+#: widgets/z_browse_categories2.php:37
+msgid "Chose Header Style"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:125
+#: widgets/z_ads_countries_listings.php:161
+msgid "Country link Page"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:133
+msgid "Category Pagee"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:157
+msgid "Ad Location"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:169
+#: widgets/z_ads_countries_listings.php:201
+msgid "Country Image"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:171
+msgid ""
+"Add an image of country you selected.Note : Recommented size (370 X 270)"
+msgstr ""
+
+#: widgets/z_adforest_locations_slider.php:180
+msgid "Select Ad Countries)"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:14
+msgid "Adforest Sales"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:31
+msgid "Sale Data"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:39
+msgid "Size"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:42
+msgid "Grid"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:43
+msgid "Wide"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:55
+msgid "Add an image of Background : Recommended size (270x200)"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:73 widgets/z_adforest_sales.php:119
+msgid "Sale Image"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:78
+msgid "Add an image of sale : Recommended size (108 X 103"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:101
+msgid "Add an image of Background : Recommended size (570x200)"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:124
+msgid "Add an image of sale : Recommended size (246 X 182)"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:144
+msgid "Sale Title"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:154
+msgid "Sale Link Title"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:164
+msgid "Sale Link"
+msgstr ""
+
+#: widgets/z_adforest_sales.php:179 widgets/z_adforest_services.php:116
+#: widgets/z_adforest_services.php:158
+msgid "Add Services"
+msgstr ""
+
+#: widgets/z_adforest_search_services.php:14
+msgid "Search - Services"
+msgstr ""
+
+#: widgets/z_adforest_search_services.php:153
+msgid "Search Ads Type Label"
+msgstr ""
+
+#: widgets/z_adforest_services.php:14
+msgid "Adforest Services"
+msgstr ""
+
+#: widgets/z_adforest_services.php:126 widgets/z_adforest_slider.php:37
+msgid "Service Image"
+msgstr ""
+
+#: widgets/z_adforest_services.php:128
+msgid "Add an image of service : Recommended size (64x64)"
+msgstr ""
+
+#: widgets/z_adforest_services.php:138
+msgid "Service Title"
+msgstr ""
+
+#: widgets/z_adforest_services.php:147
+msgid "Service Description"
+msgstr ""
+
+#: widgets/z_adforest_shop_services.php:15
+msgid "Shop Layout - Services"
+msgstr ""
+
+#: widgets/z_adforest_shop_services.php:117
+#: widgets/z_adforest_shop_services.php:138 widgets/z_shop_layout2.php:151
+msgid "Product Settings"
+msgstr ""
+
+#: widgets/z_adforest_shop_services.php:147 widgets/z_ads_with_sidebar.php:86
+#: widgets/z_ads_with_sidebar.php:175 widgets/z_browse_categories2.php:158
+#: widgets/z_call_to_action3.php:120 widgets/z_call_to_action_techy.php:144
+#: widgets/z_shop_layout2.php:227
+msgid "Select Option"
+msgstr ""
+
+#: widgets/z_adforest_slider.php:14
+msgid "Adforest Banner Slider"
+msgstr ""
+
+#: widgets/z_adforest_slider.php:39
+msgid "Add an image of slider"
+msgstr ""
+
+#: widgets/z_adforest_slider.php:49
+msgid "Slider Title"
+msgstr ""
+
+#: widgets/z_adforest_slider.php:59
+msgid "Enter slider description here ."
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:14
+msgid "adforest locations listings"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:29
+msgid "Shortcode Output"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:35
+msgid "Countries Style"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:38
+msgid "Style 1"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:39
+msgid "Style 2"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:40
+msgid "Style 3"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:41
+msgid "Style 4"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:60 widgets/z_ads_tab_modern6.php:37
+#: widgets/z_ads_team_member.php:39 widgets/z_apps_call_to_action.php:37
+#: widgets/z_apps_screenshots_slider.php:37
+#: widgets/z_awesome_features_modern.php:37 widgets/z_faqs_modern.php:37
+#: widgets/z_partners_modern.php:37 widgets/z_process_cycle_new4.php:39
+#: widgets/z_shop_layout2.php:39
+msgid "Select background color."
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:149
+msgid "Number of Countries"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:155
+msgid "Add num of countries to display in per page."
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:181
+msgid "Countries"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:191 widgets/z_ads_tab_modern6.php:223
+msgid "Ad Conditions"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:203
+msgid ""
+"<b>Note :</b> Uploaded image size should be greater or equal to these "
+"following image size for best results. <br /> <b> Grid : Recommended(360 x "
+"252)</b><br /> <b> wide : Recommended(750 x 270)</b><br /> <b> large : "
+"Recommended(370 x 560)</b>"
+msgstr ""
+
+#: widgets/z_ads_countries_listings.php:213
+msgid "Select Ad Countries"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:14
+msgid "ADs Tabs Modern 2"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:47
+msgid "Element Title"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:143
+msgid "Number fo Ads for Each Tab"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:161
+msgid "Tabs"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:168
+msgid "Display Tabs"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:171
+msgid "Select Ads Tabing"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:173 widgets/z_ads_tab_modern6.php:203
+msgid "Ad Type"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:174
+msgid "Condition"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:175
+msgid "Warranty"
+msgstr ""
+
+#: widgets/z_ads_tab_modern6.php:243
+msgid "Ad Warranty"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:14
+msgid "Team Memebers"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:130
+msgid "Team member"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:139
+msgid "Memeber Name"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:148
+msgid "Memeber Address"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:157
+msgid "Memeber Designation"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:167
+msgid "Member Image"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:169
+msgid "Add an image of your team member : Recommended size (270 X 237)"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:177
+msgid "Facebook"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:186
+msgid "Twitter"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:196
+msgid "Linkedin"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:206
+msgid "Google +"
+msgstr ""
+
+#: widgets/z_ads_team_member.php:216
+msgid "Add Team Members"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:14
+msgid "Ads With Sidebar - Ajax Based"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:29
+msgid "Main Section"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:83
+msgid "Sider Position"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:117
+msgid "View All Button Text"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:121
+msgid "Leave empty if you want to hide the view all button."
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:128
+msgid "Banner Top"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:130 widgets/z_ads_with_sidebar.php:140
+msgid "Write your html or simple code here"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:138
+msgid "Banner Bottom"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:162
+msgid "Sidebar Title"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:212 widgets/z_browse_categories2.php:225
+msgid ""
+"If you upload the icons images then icons will be overidden. max icon image "
+"size (32px X 32px)"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:240
+msgid "Sidebar (Links)"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:248
+msgid "Sidebar button Title"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:258
+msgid "Buttons"
+msgstr ""
+
+#: widgets/z_ads_with_sidebar.php:275
+msgid "Select Links"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:14
+msgid "Apps - Call To Action Modern"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:47 widgets/z_call_to_action_techy.php:36
+#: widgets/z_faqs_modern.php:47 widgets/z_main_call_to_action.php:36
+#: widgets/z_main_call_to_action_modern.php:37
+#: widgets/z_main_call_to_action_modern2.php:36
+msgid "Section Quote Text"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:77 widgets/z_call_to_action_techy.php:117
+#: widgets/z_call_to_action_techy.php:164 widgets/z_faqs_modern.php:77
+#: widgets/z_main_call_to_action.php:142 widgets/z_main_call_to_action.php:153
+#: widgets/z_main_call_to_action_modern.php:135
+#: widgets/z_main_call_to_action_modern2.php:139
+msgid "Background image behind the content."
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:90 widgets/z_apps_call_to_action.php:98
+#: widgets/z_faqs_modern.php:90 widgets/z_testimonial_modern.php:51
+msgid "Points"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:109 widgets/z_apps_call_to_action.php:176
+#: widgets/z_apps_screenshots_slider.php:177
+#: widgets/z_awesome_features_modern.php:186 widgets/z_faqs_modern.php:117
+#: widgets/z_testimonial_modern.php:99
+msgid "Select points under description."
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:123
+msgid "buttoners"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:146
+msgid "Button Text 1"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:154
+msgid "Button Text 2"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:163
+msgid "Btn Image"
+msgstr ""
+
+#: widgets/z_apps_call_to_action.php:165
+#: widgets/z_apps_screenshots_slider.php:166
+#: widgets/z_awesome_features_modern.php:175
+#: widgets/z_main_call_to_action_modern2.php:152
+msgid "Section side image"
+msgstr ""
+
+#: widgets/z_apps_screenshots_slider.php:14
+msgid "Apps Screenshots - Slider"
+msgstr ""
+
+#: widgets/z_apps_screenshots_slider.php:147
+#: widgets/z_awesome_features_modern.php:148
+msgid "Screenshots"
+msgstr ""
+
+#: widgets/z_apps_screenshots_slider.php:155
+msgid "Screenshot Name"
+msgstr ""
+
+#: widgets/z_awesome_features_modern.php:14
+msgid "Awesome Features - Modern"
+msgstr ""
+
+#: widgets/z_awesome_features_modern.php:164
+msgid "Subtitle"
+msgstr ""
+
+#: widgets/z_browse_categories.php:15
+msgid "Browse Categories - With Icons"
+msgstr ""
+
+#: widgets/z_browse_categories.php:155
+msgid "250X250"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:14
+msgid "Browse Categories 2"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:113 widgets/z_browse_categories2.php:123
+msgid "View All Button"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:154
+msgid "Text Position"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:160
+msgid "Center"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:193
+msgid "Category Tag line"
+msgstr ""
+
+#: widgets/z_browse_categories2.php:205
+msgid "150X150"
+msgstr ""
+
+#: widgets/z_call_to_action3.php:14
+msgid "Call To Action - 3"
+msgstr ""
+
+#: widgets/z_call_to_action3.php:45 widgets/z_main_call_to_action.php:54
+#: widgets/z_main_call_to_action_modern.php:55
+msgid "Section Subtitle"
+msgstr ""
+
+#: widgets/z_call_to_action3.php:68 widgets/z_call_to_action_techy.php:67
+#: widgets/z_main_call_to_action.php:77
+#: widgets/z_main_call_to_action_modern.php:86
+#: widgets/z_main_call_to_action_modern2.php:77
+msgid "Button 1 Text"
+msgstr ""
+
+#: widgets/z_call_to_action3.php:78 widgets/z_call_to_action_techy.php:77
+#: widgets/z_main_call_to_action.php:87
+#: widgets/z_main_call_to_action_modern.php:94
+#: widgets/z_main_call_to_action_modern2.php:87
+msgid "Button 1 URL"
+msgstr ""
+
+#: widgets/z_call_to_action3.php:116 widgets/z_call_to_action_techy.php:140
+msgid "Image Position"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:14
+msgid "Call To Action - Techy"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:91 widgets/z_main_call_to_action.php:101
+#: widgets/z_main_call_to_action_modern.php:108
+#: widgets/z_main_call_to_action_modern2.php:101
+msgid "Button 2 Text"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:101 widgets/z_main_call_to_action.php:111
+#: widgets/z_main_call_to_action_modern.php:116
+#: widgets/z_main_call_to_action_modern2.php:111
+msgid "Button 2 URL"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:115
+#: widgets/z_call_to_action_techy.php:156 widgets/z_call_to_action_toy.php:82
+#: widgets/z_main_call_to_action.php:134
+msgid "Images"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:162 widgets/z_main_call_to_action.php:140
+#: widgets/z_main_call_to_action_modern.php:133
+#: widgets/z_main_call_to_action_modern2.php:137
+msgid "Content Background Image"
+msgstr ""
+
+#: widgets/z_call_to_action_techy.php:175
+#: widgets/z_call_to_action_techy.php:187
+msgid "Simple section front image."
+msgstr ""
+
+#: widgets/z_call_to_action_toy.php:14
+msgid "Call To Action - Toy"
+msgstr ""
+
+#: widgets/z_call_to_action_toy.php:88
+msgid "Image 1"
+msgstr ""
+
+#: widgets/z_call_to_action_toy.php:90
+msgid "Add an image of service : Recommended size (246x448)"
+msgstr ""
+
+#: widgets/z_call_to_action_toy.php:100
+msgid "Image 2"
+msgstr ""
+
+#: widgets/z_call_to_action_toy.php:102
+msgid "Add an image of service : Recommended size (621x512)"
+msgstr ""
+
+#: widgets/z_faqs_modern.php:14
+msgid "FAQs - Modern"
+msgstr ""
+
+#: widgets/z_main_call_to_action.php:14
+msgid "Main Section - Call To Action"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern.php:15
+msgid "Main Section - Call To Action Modern"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern.php:220
+msgid "Search Type"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern.php:228
+msgid "Select Type"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern.php:242
+msgid "select icon image (50pxX50px)"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern.php:250
+msgid "Select Type."
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern2.php:14
+msgid "Main Section - Call To Action Modern 2"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern2.php:126
+msgid "Youtube Video URL"
+msgstr ""
+
+#: widgets/z_main_call_to_action_modern2.php:130
+msgid "Leave empty if you don't want to show button"
+msgstr ""
+
+#: widgets/z_partners_modern.php:14
+msgid "Clients or Partners - Modern 2"
+msgstr ""
+
+#: widgets/z_partners_modern.php:159
+msgid "165X107"
+msgstr ""
+
+#: widgets/z_partners_modern.php:169
+msgid "Select Category."
+msgstr ""
+
+#: widgets/z_process_cycle_new4.php:14
+msgid "Process Cycle 4"
+msgstr ""
+
+#: widgets/z_shop_layout2.php:189
+msgid "For Read more Link if any Text"
+msgstr ""
+
+#: widgets/z_shop_layout2.php:200 widgets/z_shop_layout_book.php:164
+msgid "Read more Link if any."
+msgstr ""
+
+#: widgets/z_shop_layout2.php:223 widgets/z_shop_layout3.php:214
+#: widgets/z_shop_layout_book.php:251 widgets/z_shop_layout_book_2.php:192
+msgid "Select Product Categories"
+msgstr ""
+
+#: widgets/z_shop_layout3.php:15
+msgid "Shop Layout - Modern 3"
+msgstr ""
+
+#: widgets/z_shop_layout_book.php:15
+msgid "Shop Layout - Book"
+msgstr ""
+
+#: widgets/z_shop_layout_book.php:142
+msgid "Add Button Title"
+msgstr ""
+
+#: widgets/z_shop_layout_book.php:145
+msgid "URL Button Title"
+msgstr ""
+
+#: widgets/z_shop_layout_book_2.php:15
+msgid "Shop Layout - Book 2"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:15
+msgid "Success Stories 2"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:125
+msgid "Success Stories."
+msgstr ""
+
+#: widgets/z_success_stories_2.php:134
+msgid "Partner 1 Name"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:141
+msgid "Partner 1 Subline"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:148
+msgid "Partner 1 Description"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:169
+msgid "Partner 2 Name"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:176
+msgid "Partner 2 Subline"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:183
+msgid "Partner 2 Description"
+msgstr ""
+
+#: widgets/z_success_stories_2.php:192
+msgid "Client Success Stories."
+msgstr ""
+
+#: widgets/z_testimonial_modern.php:14
+msgid "Testimonials - Modern old"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Adforest Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin is used to add shortcodes by Elementor Pagebuilder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""
