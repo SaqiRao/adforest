@@ -23,4 +23,5 @@ wp-content/plugins/*
 # specify (see the commented-out example for a hint on how to do this.)
 #wp-content/themes/medlist/assets/imgs/
 wp-content/themes/*
-!wp-content/themes/adforest-5.1.2/
+!wp-content/themes/adforest/
+!wp-content/themes/adforest-child/
